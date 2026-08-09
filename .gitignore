@@ -1,0 +1,10 @@
+.DS_Store
+.runtime/
+__pycache__/
+*.pyc
+candidate-profile*.xlsx
+个人条件*.xlsx
+个人资料/
+private/
+downloads/
+*.log

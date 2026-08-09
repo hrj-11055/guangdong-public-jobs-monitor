@@ -1,0 +1,57 @@
+name: Guangdong public jobs monitor
+
+on:
+  schedule:
+    # GitHub cron uses UTC. These are 08:15 and 18:15 Asia/Shanghai.
+    - cron: "15 0,10 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: guangdong-public-jobs-monitor
+  cancel-in-progress: false
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v6
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run source monitor
+        run: python3 scripts/monitor.py --sources references/official-sources.json --data-dir data
+
+      - name: Add report to workflow summary
+        run: cat data/daily-report.md >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Commit public monitoring data when changed
+        run: |
+          if [[ -n "$(git status --porcelain -- data)" ]]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add data
+            git commit -m "chore: update recruitment monitor data"
+            git push
+          fi
+
+      - name: Open an alert Issue for new discoveries
+        if: ${{ hashFiles('.runtime/new-count.txt') != '' }}
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          count="$(tr -d '[:space:]' < .runtime/new-count.txt)"
+          run_date="$(tr -d '[:space:]' < .runtime/run-date.txt)"
+          if [[ "$count" =~ ^[0-9]+$ ]] && (( count > 0 )); then
+            gh issue create \
+              --title "招考监控：${run_date} 发现 ${count} 条新线索" \
+              --body-file data/daily-report.md
+          fi

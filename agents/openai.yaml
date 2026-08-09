@@ -1,0 +1,4 @@
+interface:
+  display_name: "广东公考事业编监控"
+  short_description: "每天核验广东及广州公务员、事业编和国企招聘公告变化"
+  default_prompt: "Use $guangdong-public-jobs-monitor to scan official Guangdong and Guangzhou public-sector recruitment sources, verify new notices, and update the tracking workbook."
