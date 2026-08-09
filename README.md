@@ -67,6 +67,7 @@ Fork 后请在仓库的 **Actions** 页面启用工作流，并在 **Settings �
 来源地图与增删规则：
 
 - [`references/source-map.md`](references/source-map.md)
+- [`references/operations-plan.md`](references/operations-plan.md)
 - [`references/official-sources.json`](references/official-sources.json)
 - [`references/verification-rules.md`](references/verification-rules.md)
 - [`references/data-schema.md`](references/data-schema.md)

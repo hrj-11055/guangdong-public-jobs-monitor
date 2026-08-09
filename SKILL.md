@@ -12,8 +12,9 @@ Build a source-grounded recruitment ledger from official notices. Cover Guangdon
 1. Read [references/source-map.md](references/source-map.md) before changing source coverage.
 2. Read [references/verification-rules.md](references/verification-rules.md) before reporting or extracting any notice.
 3. Read [references/data-schema.md](references/data-schema.md) before updating the workbook or CSV files.
-4. Copy [assets/广东公考事业编监控台账.xlsx](assets/广东公考事业编监控台账.xlsx) to a working location. Never overwrite the asset master.
-5. Run the deterministic scan from the skill root:
+4. Read [references/operations-plan.md](references/operations-plan.md) when setting up recurring or team operations.
+5. Copy [assets/广东公考事业编监控台账.xlsx](assets/广东公考事业编监控台账.xlsx) to a working location. Never overwrite the asset master.
+6. Run the deterministic scan from the skill root:
 
 ```bash
 python3 scripts/monitor.py \
