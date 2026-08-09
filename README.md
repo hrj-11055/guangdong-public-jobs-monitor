@@ -40,7 +40,7 @@ Excel 主模板位于 `assets/广东公考事业编监控台账.xlsx`，包含�
 把本仓库克隆到 Codex 的 Skills 目录，目录名保持为 `guangdong-public-jobs-monitor`：
 
 ```bash
-git clone <本仓库地址> ~/.codex/skills/guangdong-public-jobs-monitor
+git clone https://github.com/hrj-11055/guangdong-public-jobs-monitor.git ~/.codex/skills/guangdong-public-jobs-monitor
 ```
 
 然后可以这样使用：
