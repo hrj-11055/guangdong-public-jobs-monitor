@@ -1,22 +1,21 @@
 # 广东公考事业编每日监控报告
 
-- 核验时间：2026-08-09T21:53:20+08:00（Asia/Shanghai）
-- 自动检查：成功 44，失败 8，人工入口 3
+- 核验时间：2026-08-10T10:30:49+08:00（Asia/Shanghai）
+- 自动检查：成功 46，失败 6，人工入口 3
 - A 级来源成功率：16/16
-- 本次新增：0
+- 本次新增：3
 
 ## 新发现
-
-本次未发现新的候选公告链接。此结论只表示成功访问来源的页面未出现新链接；失败来源需人工补查。
+- [广州市人力资源和社会保障局系统事业单位2026年第一次公开招聘事业编制人员拟聘用人员名单公示（第四批）](https://rsj.gz.gov.cn/ywzt/rszdgg/sydwgkzp/jggs/content/post_10957318.html) — 广州市 / 事业编 / 2019-10-18
+- [广清经济特别合作区广德（英德）产业园管理委员会2026年公开招聘雇员公告](http://www.hp.gov.cn/xwzx/tzgg/zpgg/content/post_10957606.html) — 广州市黄埔区 / 编外 / 2026-08-10
+- [广州市增城区中新镇福和卫生院关于乡村医生公开招聘综合成绩及进入体检名单的公告](http://www.zc.gov.cn/gk/rsgz/dwzp/content/post_10957099.html) — 广州市增城区 / 待核实 / 2026-08-07
 
 ## 失败来源
-- 广东人才网：<urlopen error timed out>
 - 番禺区招考信息：<urlopen error [Errno -3] Temporary failure in name resolution>
 - 深圳市人社局公职人员招考：<urlopen error [SSL: BAD_ECPOINT] bad ecpoint (_ssl.c:1010)>
 - 佛山市人社局机关事业单位招录：<urlopen error [Errno 101] Network is unreachable>
-- 惠州市人社局通知公告：<urlopen error [Errno 104] Connection reset by peer>
 - 东莞市人社局公开招聘：<urlopen error [Errno -3] Temporary failure in name resolution>
-- 肇庆市人社局政府信息公开平台：<urlopen error [Errno 101] Network is unreachable>
+- 肇庆市人社局政府信息公开平台：<urlopen error timed out>
 - 潮州市人社局通知公告：<urlopen error [Errno 101] Network is unreachable>
 
 ## 人工补查入口
