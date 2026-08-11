@@ -1,22 +1,23 @@
 # 广东公考事业编每日监控报告
 
-- 核验时间：2026-08-10T19:19:10+08:00（Asia/Shanghai）
-- 自动检查：成功 45，失败 7，人工入口 3
-- A 级来源成功率：16/16
-- 本次新增：7
+- 核验时间：2026-08-11T10:24:08+08:00（Asia/Shanghai）
+- 自动检查：成功 39，失败 13，人工入口 3
+- A 级来源成功率：11/16
+- 本次新增：0
 
 ## 新发现
-- [天河区城市管理第三保洁所公开招聘编外工作人员公告](http://www.thnet.gov.cn/thdt/tzgg/rsxx/rszp/content/post_10958648.html) — 广州市天河区 / 编外 / 2026-08-10
-- [天河区卫生健康系统事业单位2025年集中公开招聘高层次和急需紧缺人才第二轮滚动招聘第一批拟聘用人员名单公示](http://www.thnet.gov.cn/thdt/tzgg/rsxx/rszp/content/post_10958174.html) — 广州市天河区 / 事业编 / 2026-08-10
-- [广州市白云区司法局2026年第一次政府雇员公开招聘拟录用人员名单公示公告](https://www.by.gov.cn/zwgk/zdlyxxgkzl/jycyxxgkzl/zpxx/qnzpxx/content/post_10958744.html) — 广州市白云区 / 编外 / 2026-08-10
-- [广州市白云区人民政府大源街道办事处2026年第一次公开招聘合同人员拟录用人员名单公示](https://www.by.gov.cn/zwgk/zdlyxxgkzl/jycyxxgkzl/zpxx/qnzpxx/content/post_10957847.html) — 广州市白云区 / 待核实 / 2026-08-10
-- [2025年广州市南沙区事业单位校园招聘拟聘人员公示（第五批）](http://www.gzns.gov.cn/zwgk/zdlyxxgk/jycy/zpxx/content/post_10957875.html) — 广州市南沙区 / 事业编 / 2026-08-10
-- [韶关市生态环境局直属事业单位2026年集中公开招聘高校毕业生拟聘人员公示（第二批...](https://rsj.sg.gov.cn/ywzt/rsrc/sydw/content/post_2871110.html) — 韶关市 / 事业编 / 2026-08-10
-- [中山市人民政府西区街道办事处所属事业单位2026年第二期公开招聘事业单位人员拟聘用人员名单公示](http://hrss.zs.gov.cn/xxgk/rsxx/sydwgkzp/content/post_2641008.html) — 中山市 / 事业编 / 2026-08-10
+
+本次未发现新的候选公告链接。此结论只表示成功访问来源的页面未出现新链接；失败来源需人工补查。
 
 ## 失败来源
-- 广东人才网：<urlopen error timed out>
+- 广东组织工作网通知公告：<urlopen error [Errno 111] Connection refused>
+- 广东组织工作网公务员录用：<urlopen error [Errno 111] Connection refused>
+- 广东组织工作网事业单位人事管理：<urlopen error [Errno 111] Connection refused>
+- 广东省人社厅事业单位招聘公告：<urlopen error [Errno 101] Network is unreachable>
+- 广东人事考试网：<urlopen error [Errno 101] Network is unreachable>
+- 广东省国资委：<urlopen error [Errno 101] Network is unreachable>
 - 深圳市人社局公职人员招考：<urlopen error [SSL: BAD_ECPOINT] bad ecpoint (_ssl.c:1010)>
+- 汕头市人社局事业单位招聘信息：<urlopen error [Errno 101] Network is unreachable>
 - 佛山市人社局机关事业单位招录：<urlopen error [Errno 101] Network is unreachable>
 - 惠州市人社局通知公告：<urlopen error [Errno 104] Connection reset by peer>
 - 东莞市人社局公开招聘：<urlopen error [Errno -3] Temporary failure in name resolution>
