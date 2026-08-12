@@ -1,23 +1,29 @@
 # 广东公考事业编每日监控报告
 
-- 核验时间：2026-08-12T10:40:56+08:00（Asia/Shanghai）
+- 核验时间：2026-08-12T19:09:13+08:00（Asia/Shanghai）
 - 自动检查：成功 43，失败 9，人工入口 3
-- A 级来源成功率：16/16
-- 本次新增：3
+- A 级来源成功率：14/16
+- 本次新增：9
 
 ## 新发现
-- [珠海城市职业技术学院2025年下半年公开招聘事业编制教师拟录... 2026-08-11](https://zhrsj.zhuhai.gov.cn/zw/tzgg/gzzk/content/post_3932046.html) — 珠海市 / 事业编 / 2026-08-11
-- [河源市2026年事业单位公开招聘工作人员（河源市市直、江东新区、龙川县卫生类岗位...](http://www.heyuan.gov.cn/bmjy/hysrlzyhshbzj/gggs/content/post_712598.html) — 河源市 / 事业编 / 2026-08-11
-- [河源市2026年事业单位公开招聘工作人员（市直、江东新区综合、教育类）面试公告](http://www.heyuan.gov.cn/bmjy/hysrlzyhshbzj/gggs/content/post_712597.html) — 河源市 / 事业编 / 2026-08-11
+- [广州市教育局直属事业单位2026年第一次公开招聘教师第五批拟聘用人员公示](https://jyj.gz.gov.cn/yw/wsgs/content/post_10959886.html) — 广州市 / 事业编 / 2026-08-10
+- [广州市海珠区科协公开招聘雇员拟聘人员公示](https://www.haizhu.gov.cn/hzdt/tzgg/zpxx/content/post_10961407.html) — 广州市海珠区 / 编外 / 2026-08-12
+- [广州市海珠区新滘供销合作社2026年公开招聘工作人员拟聘用人员公示](https://www.haizhu.gov.cn/hzdt/tzgg/zpxx/content/post_10961194.html) — 广州市海珠区 / 待核实 / 2026-08-12
+- [广州市番禺区教育局2026年公开招聘事业编制教师拟聘用人员公示（第三批）](http://www.panyu.gov.cn/zwgk/rsgk/zkxx/content/post_10961156.html) — 广州市番禺区 / 事业编 / 2026-08-12
+- [中山市阜沙镇人民政府所属事业单位2026年公开招聘事业单位人员拟聘用人员名单（第一批）公示](http://hrss.zs.gov.cn/xxgk/rsxx/sydwgkzp/content/post_2641883.html) — 中山市 / 事业编 / 2026-08-12
+- [中山市人民政府西区街道办事处所属事业单位2026年第二期公开招聘拟聘用人员名单公示](http://hrss.zs.gov.cn/xxgk/rsxx/sydwgkzp/content/post_2641881.html) — 中山市 / 事业编 / 2026-08-12
+- [中山市三乡镇人民政府所属事业单位2025年公开招聘拟聘用人员名单公示](http://hrss.zs.gov.cn/xxgk/rsxx/sydwgkzp/content/post_2641879.html) — 中山市 / 事业编 / 2026-08-12
+- [茂名市中级人民法院2026年公开招聘司法审判辅助人员笔试、技能测试公告 2026-08-12](https://www.mmcourts.gov.cn/view/GZDT/8122) — 茂名市 / 编外 / 2026-02-10
+- [2026年广东省云浮市“百万英才汇南粤”中共云浮市委党校招聘紧缺人才面试公告 2026-08-12](https://www.yunfu.gov.cn/rsj/zx/tzgg/content/post_2032201.html) — 云浮市 / 待核实 / 2026-08-12
 
 ## 失败来源
-- 广东人才网：<urlopen error timed out>
-- 番禺区招考信息：<urlopen error [Errno -3] Temporary failure in name resolution>
+- 广东省人社厅事业单位招聘公告：<urlopen error [Errno 101] Network is unreachable>
+- 广东人事考试网：<urlopen error [Errno 101] Network is unreachable>
+- 广东省国资委：<urlopen error [Errno 101] Network is unreachable>
 - 深圳市人社局公职人员招考：<urlopen error [SSL: BAD_ECPOINT] bad ecpoint (_ssl.c:1010)>
 - 佛山市人社局机关事业单位招录：<urlopen error [Errno 101] Network is unreachable>
 - 惠州市人社局通知公告：<urlopen error [Errno 104] Connection reset by peer>
 - 东莞市人社局公开招聘：<urlopen error [Errno -3] Temporary failure in name resolution>
-- 湛江市人社局通知公告：<urlopen error [Errno 104] Connection reset by peer>
 - 肇庆市人社局政府信息公开平台：<urlopen error [Errno 101] Network is unreachable>
 - 潮州市人社局通知公告：<urlopen error [Errno 101] Network is unreachable>
 
