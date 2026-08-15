@@ -1,15 +1,14 @@
 # 广东公考事业编每日监控报告
 
-- 核验时间：2026-08-15T09:47:34+08:00（Asia/Shanghai）
-- 自动检查：成功 44，失败 8，人工入口 3
+- 核验时间：2026-08-15T18:35:48+08:00（Asia/Shanghai）
+- 自动检查：成功 45，失败 7，人工入口 3
 - A 级来源成功率：16/16
 - 本次新增：1
 
 ## 新发现
-- [荔湾区2026年社区专职工作人员公开招聘南源街道办事处拟聘用人员公示](http://www.lw.gov.cn/ywdt/lwzp/content/post_10965937.html) — 广州市荔湾区 / 编外 / 2026-08-14
+- [2026年广州市南沙区卫生健康局公开招聘下属事业单位工作人员公告](http://www.gzns.gov.cn/zwgk/tzgg/content/post_10962793.html) — 广东省 / 事业编 / 日期待核验
 
 ## 失败来源
-- 广东人才网：<urlopen error timed out>
 - 番禺区招考信息：<urlopen error [Errno -3] Temporary failure in name resolution>
 - 深圳市人社局公职人员招考：<urlopen error [SSL: BAD_ECPOINT] bad ecpoint (_ssl.c:1010)>
 - 佛山市人社局机关事业单位招录：<urlopen error [Errno 101] Network is unreachable>
