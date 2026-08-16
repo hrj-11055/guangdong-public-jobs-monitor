@@ -1,15 +1,16 @@
 # 广东公考事业编每日监控报告
 
-- 核验时间：2026-08-16T09:55:27+08:00（Asia/Shanghai）
-- 自动检查：成功 46，失败 6，人工入口 3
+- 核验时间：2026-08-16T18:36:24+08:00（Asia/Shanghai）
+- 自动检查：成功 45，失败 7，人工入口 3
 - A 级来源成功率：16/16
 - 本次新增：1
 
 ## 新发现
-- [2026年广州市荔湾区教育局公开招聘事业编制教师笔试成绩查询及资格复审公告](http://www.lw.gov.cn/ywdt/lwzp/content/post_10966015.html) — 广州市荔湾区 / 事业编 / 2026-08-16
+- [2026年广东省云浮市“百万英才汇南粤”中共云浮市委党校招聘紧缺人才体检公告 2026-08-16](https://www.yunfu.gov.cn/rsj/zx/tzgg/content/post_2032971.html) — 云浮市 / 待核实 / 2026-08-16
 
 ## 失败来源
 - 广东人才网：<urlopen error timed out>
+- 番禺区招考信息：<urlopen error [Errno -3] Temporary failure in name resolution>
 - 深圳市人社局公职人员招考：<urlopen error [SSL: BAD_ECPOINT] bad ecpoint (_ssl.c:1010)>
 - 佛山市人社局机关事业单位招录：<urlopen error [Errno 101] Network is unreachable>
 - 东莞市人社局公开招聘：<urlopen error [Errno -3] Temporary failure in name resolution>
