@@ -1,15 +1,16 @@
 # 广东公考事业编每日监控报告
 
-- 核验时间：2026-08-18T18:43:31+08:00（Asia/Shanghai）
+- 核验时间：2026-08-19T09:50:31+08:00（Asia/Shanghai）
 - 自动检查：成功 44，失败 8，人工入口 3
 - A 级来源成功率：16/16
-- 本次新增：4
+- 本次新增：5
 
 ## 新发现
-- [广东建设职业技术学院2026年公开招聘博士研究生公告](https://hrss.gd.gov.cn/zwgk/sydwzp/zpgg/content/post_4943820.html) — 广东省 / 待核实 / 2026-01-27
-- [广州市天河区员村街道综合事务中心2026年公开招聘环卫工人拟聘用人员公示](http://www.thnet.gov.cn/thdt/tzgg/rsxx/rszp/content/post_10968952.html) — 广州市天河区 / 待核实 / 2026-08-18
-- [“百万英才汇南粤”广州市白云区2026年下半年在广州公开招聘中小学事业编制教师综合成绩及进入体检环节人员名单公告](https://www.by.gov.cn/zwgk/zdlyxxgkzl/jycyxxgkzl/zpxx/qnzpxx/content/post_10969583.html) — 广州市白云区 / 事业编 / 2026-08-18
-- [河源市2026年事业单位公开招聘工作人员市直、江东新区考生（综合、教育类）总成绩...](http://www.heyuan.gov.cn/bmjy/hysrlzyhshbzj/gggs/content/post_713250.html) — 河源市 / 事业编 / 2026-08-18
+- [荔湾区2026年社区专职工作人员公开招聘金花街道拟聘用人员公示](http://www.lw.gov.cn/ywdt/lwzp/content/post_10969672.html) — 广州市荔湾区 / 编外 / 2026-08-18
+- [2025年广州市荔湾区教育局公开招聘事业编制教师拟聘用人员公示（第三批）](http://www.lw.gov.cn/ywdt/lwzp/content/post_10969675.html) — 广州市荔湾区 / 事业编 / 2026-08-18
+- [2025年广州市荔湾区教育局公开招聘事业编制人员拟聘用人员公示（第三批）](http://www.lw.gov.cn/ywdt/lwzp/content/post_10969674.html) — 广州市荔湾区 / 事业编 / 2026-08-18
+- [2025年广州市荔湾区教育系统校园招聘“扬帆计划”拟聘用人员公示（第二批）](http://www.lw.gov.cn/ywdt/lwzp/content/post_10969673.html) — 广州市荔湾区 / 待核实 / 2026-08-18
+- [2026年广州市南沙区黄阁镇人民政府公开招聘编外工作人员公告](http://www.gzns.gov.cn/zwgk/zdlyxxgk/jycy/zpxx/content/post_10969762.html) — 广州市南沙区 / 编外 / 2026-08-14
 
 ## 失败来源
 - 广东人才网：<urlopen error timed out>
