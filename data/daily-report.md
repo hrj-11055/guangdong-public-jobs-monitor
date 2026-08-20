@@ -1,13 +1,15 @@
 # 广东公考事业编每日监控报告
 
-- 核验时间：2026-08-20T09:48:36+08:00（Asia/Shanghai）
+- 核验时间：2026-08-20T18:44:44+08:00（Asia/Shanghai）
 - 自动检查：成功 44，失败 8，人工入口 3
 - A 级来源成功率：16/16
-- 本次新增：0
+- 本次新增：4
 
 ## 新发现
-
-本次未发现新的候选公告链接。此结论只表示成功访问来源的页面未出现新链接；失败来源需人工补查。
+- [岭南街道公益性岗位拟聘用人员公示](http://www.lw.gov.cn/ywdt/lwzp/content/post_10966093.html) — 广州市荔湾区 / 待核实 / 2026-08-17
+- [广州市天河区教育局直属事业单位2026年春季公开招聘在编教职员拟聘用人员公示（第二批）](http://www.thnet.gov.cn/thdt/tzgg/rsxx/rszp/content/post_10971397.html) — 广州市天河区 / 事业编 / 2026-08-20
+- [2025年广州市天河区教育系统校园招聘“优才计划”拟聘用人员公示（第二批）](http://www.thnet.gov.cn/thdt/tzgg/rsxx/rszp/content/post_10971395.html) — 广州市天河区 / 待核实 / 2026-08-20
+- [2026年南沙区残疾人联合会公开招聘编外人员拟聘用公示](http://www.gzns.gov.cn/zwgk/zdlyxxgk/jycy/zpxx/content/post_10972368.html) — 广州市南沙区 / 编外 / 2026-08-20
 
 ## 失败来源
 - 广东人才网：<urlopen error timed out>
