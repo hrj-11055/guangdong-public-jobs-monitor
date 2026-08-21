@@ -1,13 +1,23 @@
 # 广东公考事业编每日监控报告
 
-- 核验时间：2026-08-21T09:54:58+08:00（Asia/Shanghai）
+- 核验时间：2026-08-21T18:43:57+08:00（Asia/Shanghai）
 - 自动检查：成功 44，失败 8，人工入口 3
 - A 级来源成功率：16/16
-- 本次新增：0
+- 本次新增：12
 
 ## 新发现
-
-本次未发现新的候选公告链接。此结论只表示成功访问来源的页面未出现新链接；失败来源需人工补查。
+- [中国藏学研究中心所属事业单位2026年度面向社会公开招聘工作人员公告](https://www.mohrss.gov.cn/SYrlzyhshbzb/fwyd/SYkaoshizhaopin/zyhgjjgsydwgkzp/zpgg/202608/t20260818_582359.html) — 全国/广东 / 事业编 / 2026-08-21
+- [荔湾区2026年社区专职工作人员公开招聘站前街道拟聘用人员公示](http://www.lw.gov.cn/ywdt/lwzp/content/post_10974704.html) — 广州市荔湾区 / 编外 / 2026-08-21
+- [荔湾区2026年社区专职工作人员公开招聘逢源街道办事处拟聘用人员公示](http://www.lw.gov.cn/ywdt/lwzp/content/post_10974079.html) — 广州市荔湾区 / 编外 / 2026-08-21
+- [广州市天河区2026年公开招聘社区专职工作人员笔试成绩查询及资格复审公告](http://www.thnet.gov.cn/thdt/tzgg/rsxx/rszp/content/post_10974457.html) — 广州市天河区 / 编外 / 2026-08-21
+- [黄埔区燃气管理所2026年初级雇员公开招聘面试成绩及进入体检人员名单公告](http://www.hp.gov.cn/xwzx/tzgg/zpgg/content/post_10974727.html) — 广州市黄埔区 / 编外 / 2026-08-21
+- [南岗街道关于公开招聘政府聘员笔试成绩及进入面试名单的公告](http://www.hp.gov.cn/xwzx/tzgg/zpgg/content/post_10973944.html) — 广州市黄埔区 / 待核实 / 2026-08-21
+- [“粤聚英才·粤见未来”广州市增城区卫生健康局下属事业单位公开招聘工作人员拟聘用人员公示（第二批）](http://www.zc.gov.cn/gk/rsgz/dwzp/content/post_10973979.html) — 广州市增城区 / 事业编 / 2026-08-21
+- [广东省事业单位2026年集中公开招聘高校毕业生广州市增城区拟聘用人员公示（第一批）](http://www.zc.gov.cn/gk/rsgz/dwzp/content/post_10972959.html) — 广州市增城区 / 事业编 / 2026-08-21
+- [2026年广州市事业单位统一公开招聘人才广州市增城区拟聘用人员公示](http://www.zc.gov.cn/gk/rsgz/dwzp/content/post_10972947.html) — 广州市增城区 / 事业编 / 2026-08-20
+- [中山市三角镇人民政府所属事业单位2026年公开招聘事业单位人员拟聘用人员名单公示](http://hrss.zs.gov.cn/xxgk/rsxx/sydwgkzp/content/post_2644291.html) — 中山市 / 事业编 / 2026-08-21
+- [中山市人民政府南朗街道办事处所属事业单位2026年第二期公开招聘事业单位人员拟聘用人员名单公示（第一批）](http://hrss.zs.gov.cn/xxgk/rsxx/sydwgkzp/content/post_2644295.html) — 中山市 / 事业编 / 2026-08-21
+- [中山市黄圃镇人民政府所属事业单位2025年公开招聘事业单位人员拟聘用人员名单公示（第三批）](http://hrss.zs.gov.cn/xxgk/rsxx/sydwgkzp/content/post_2644297.html) — 中山市 / 事业编 / 2026-08-21
 
 ## 失败来源
 - 广东人才网：<urlopen error timed out>
