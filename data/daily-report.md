@@ -1,14 +1,16 @@
 # 广东公考事业编每日监控报告
 
-- 核验时间：2026-08-22T09:47:35+08:00（Asia/Shanghai）
-- 自动检查：成功 45，失败 7，人工入口 3
+- 核验时间：2026-08-22T18:37:07+08:00（Asia/Shanghai）
+- 自动检查：成功 44，失败 8，人工入口 3
 - A 级来源成功率：16/16
-- 本次新增：1
+- 本次新增：0
 
 ## 新发现
-- [广东粤垦农业小额贷款股份有限公司拟聘人员公示](https://www.gdrc.com/index.php?m=&c=news&a=news_show&id=835) — 广东省 / 国企 / 日期待核验
+
+本次未发现新的候选公告链接。此结论只表示成功访问来源的页面未出现新链接；失败来源需人工补查。
 
 ## 失败来源
+- 广东人才网：<urlopen error timed out>
 - 深圳市人社局公职人员招考：<urlopen error [SSL: BAD_ECPOINT] bad ecpoint (_ssl.c:1010)>
 - 佛山市人社局机关事业单位招录：<urlopen error [Errno 101] Network is unreachable>
 - 韶关市人社局事业单位人事：<urlopen error [Errno -5] No address associated with hostname>
