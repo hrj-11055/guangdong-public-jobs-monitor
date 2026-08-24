@@ -1,14 +1,17 @@
 # 广东公考事业编每日监控报告
 
-- 核验时间：2026-08-24T09:55:10+08:00（Asia/Shanghai）
+- 核验时间：2026-08-24T18:50:03+08:00（Asia/Shanghai）
 - 自动检查：成功 44，失败 8，人工入口 3
 - A 级来源成功率：16/16
-- 本次新增：3
+- 本次新增：6
 
 ## 新发现
-- [广东松山职业技术学院2026年公开招聘博士研究生公告](https://hrss.gd.gov.cn/zwgk/sydwzp/zpgg/content/post_4945757.html) — 广东省 / 待核实 / 2026-01-27
-- [荔湾区石围塘街道关于公示2026年社区专职工作人员公开招聘拟聘用人员的公告](http://www.lw.gov.cn/ywdt/lwzp/content/post_10975188.html) — 广州市荔湾区 / 编外 / 2026-08-24
-- [昌华街消毒站关于公开招聘消毒员的公告](http://www.lw.gov.cn/ywdt/lwzp/content/post_10975103.html) — 广州市荔湾区 / 待核实 / 2026-08-24
+- [广州航海学院 广州交通大学（筹）2026年公开招聘高层次人才拟聘人员第一次公示](https://www.gzmtu.edu.cn/info/1019/21090.htm) — 广州市 / 待核实 / 2026-08-10
+- [公益性岗位拟聘用人员公示](https://www.haizhu.gov.cn/hzdt/tzgg/zpxx/content/post_10975165.html) — 广州市海珠区 / 待核实 / 2026-08-24
+- [黄埔区大沙街道公开招聘编外聘用人员笔试成绩公告](http://www.hp.gov.cn/xwzx/tzgg/zpgg/content/post_10975503.html) — 广州市黄埔区 / 编外 / 2026-08-24
+- [广州市南沙区应急管理局编外人员拟聘用人员公示](http://www.gzns.gov.cn/zwgk/zdlyxxgk/jycy/zpxx/content/post_10976164.html) — 广州市南沙区 / 编外 / 2026-08-24
+- [2026年南沙区横沥镇编外人员公开招聘公告](http://www.gzns.gov.cn/zwgk/zdlyxxgk/jycy/zpxx/content/post_10975910.html) — 广州市南沙区 / 编外 / 2026-08-24
+- [“百万英才汇南粤”——河源市直有关学校2026年春季公开招聘拟聘用人员名单（第二...](http://www.heyuan.gov.cn/bmjy/hysrlzyhshbzj/gggs/content/post_713813.html) — 河源市 / 待核实 / 2026-08-24
 
 ## 失败来源
 - 广东人才网：<urlopen error timed out>
