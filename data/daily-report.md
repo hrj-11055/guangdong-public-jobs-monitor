@@ -1,17 +1,13 @@
 # 广东公考事业编每日监控报告
 
-- 核验时间：2026-08-24T18:50:03+08:00（Asia/Shanghai）
+- 核验时间：2026-08-25T09:49:36+08:00（Asia/Shanghai）
 - 自动检查：成功 44，失败 8，人工入口 3
 - A 级来源成功率：16/16
-- 本次新增：6
+- 本次新增：2
 
 ## 新发现
-- [广州航海学院 广州交通大学（筹）2026年公开招聘高层次人才拟聘人员第一次公示](https://www.gzmtu.edu.cn/info/1019/21090.htm) — 广州市 / 待核实 / 2026-08-10
-- [公益性岗位拟聘用人员公示](https://www.haizhu.gov.cn/hzdt/tzgg/zpxx/content/post_10975165.html) — 广州市海珠区 / 待核实 / 2026-08-24
-- [黄埔区大沙街道公开招聘编外聘用人员笔试成绩公告](http://www.hp.gov.cn/xwzx/tzgg/zpgg/content/post_10975503.html) — 广州市黄埔区 / 编外 / 2026-08-24
-- [广州市南沙区应急管理局编外人员拟聘用人员公示](http://www.gzns.gov.cn/zwgk/zdlyxxgk/jycy/zpxx/content/post_10976164.html) — 广州市南沙区 / 编外 / 2026-08-24
-- [2026年南沙区横沥镇编外人员公开招聘公告](http://www.gzns.gov.cn/zwgk/zdlyxxgk/jycy/zpxx/content/post_10975910.html) — 广州市南沙区 / 编外 / 2026-08-24
-- [“百万英才汇南粤”——河源市直有关学校2026年春季公开招聘拟聘用人员名单（第二...](http://www.heyuan.gov.cn/bmjy/hysrlzyhshbzj/gggs/content/post_713813.html) — 河源市 / 待核实 / 2026-08-24
+- [2026年广州市海珠区教育系统公开招聘编制财务人员和校医拟聘用人员名单公示](https://www.haizhu.gov.cn/hzdt/tzgg/zpxx/content/post_10976686.html) — 广州市海珠区 / 待核实 / 2026-08-25
+- [2026年广州市海珠区公开招聘编制教师第二批拟聘用人员名单公示](https://www.haizhu.gov.cn/hzdt/tzgg/zpxx/content/post_10976683.html) — 广州市海珠区 / 事业编 / 2026-08-25
 
 ## 失败来源
 - 广东人才网：<urlopen error timed out>
