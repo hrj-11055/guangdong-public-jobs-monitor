@@ -1,56 +1,56 @@
 ﻿checked_at,source_id,source_name,authority_level,region,url,status,http_status,elapsed_ms,candidate_links,error
-2026-08-28T19:18:18+08:00,NAT-CIVIL-2026,中央机关及其直属机构2026年度考试录用公务员专题,A,全国/广东职位,http://bm.scs.gov.cn/kl2026,ok,200,764,0,
-2026-08-28T19:18:18+08:00,NAT-CIVIL-HOME,国家公务员局,A,全国,http://www.scs.gov.cn/,ok,200,1201,0,
-2026-08-28T19:18:18+08:00,NAT-INST-MOHRSS,中央和国家机关所属事业单位公开招聘服务平台,A,全国/驻粤单位,https://www.mohrss.gov.cn/SYrlzyhshbzb/fwyd/SYkaoshizhaopin/zyhgjjgsydwgkzp/,ok,200,3935,0,
-2026-08-28T19:18:18+08:00,NAT-PUBLIC-JOBS,中国公共招聘网事业单位公开招聘,A,全国/广东,http://job.mohrss.gov.cn/cjobs/institution/listInstitution,ok,200,1356,13,
-2026-08-28T19:18:18+08:00,GD-ORG-NOTICES,广东组织工作网通知公告,A,广东省,https://www.gdzz.gov.cn/tzgg/index.html,ok,200,1451,17,
-2026-08-28T19:18:18+08:00,GD-ORG-CIVIL,广东组织工作网公务员录用,A,广东省,https://www.gdzz.gov.cn/gwygz/lypytzgg/,ok,200,1394,17,
-2026-08-28T19:18:18+08:00,GD-ORG-INST,广东组织工作网事业单位人事管理,A,广东省,https://www.gdzz.gov.cn/gbgz/sydwrsgl/,ok,200,1359,13,
-2026-08-28T19:18:18+08:00,GD-HRSS-INST,广东省人社厅事业单位招聘公告,A,广东省,https://hrss.gd.gov.cn/zwgk/sydwzp/zpgg/,ok,200,1842,10,
-2026-08-28T19:18:18+08:00,GD-RSKS,广东人事考试网,A,广东省,https://rsks.gd.gov.cn/,ok,200,2363,14,
-2026-08-28T19:18:18+08:00,GD-CIVIL-SYSTEM,广东省公务员考试录用管理信息系统公告,A,广东省,https://ggfw.hrss.gd.gov.cn/gwyks/anouns.do,ok,200,949,0,
-2026-08-28T19:18:18+08:00,GD-SELECT-SYSTEM,广东省选调优秀大学毕业生系统公告,A,广东省,https://ggfw.hrss.gd.gov.cn/yxks/anouns.do,ok,200,715,1,
-2026-08-28T19:18:18+08:00,GD-INST-SYSTEM,广东省事业单位公开招聘信息管理系统,A,广东省,https://ggfw.hrss.gd.gov.cn/sydwbk/index.do,manual,,,,登录型系统；保留为操作入口，不自动抓取
-2026-08-28T19:18:18+08:00,GD-PUBLIC-RECRUIT,广东公共求职招聘服务平台,C,广东省,https://ggfw.hrss.gd.gov.cn/recruitment/internet/main/,ok,200,695,0,
-2026-08-28T19:18:18+08:00,GD-TALENT,广东人才网,C,广东省,https://www.gdrc.com/,failed,,,0,<urlopen error timed out>
-2026-08-28T19:18:18+08:00,GD-SASAC,广东省国资委,B,广东省,https://gzw.gd.gov.cn/,ok,200,2566,0,
-2026-08-28T19:18:18+08:00,GZ-HRSS-CIVIL,广州市人社局公务员考录,A,广州市,https://rsj.gz.gov.cn/ywzt/rszdgg/gwykl/,ok,200,4124,14,
-2026-08-28T19:18:18+08:00,GZ-HRSS-INST,广州市人社局事业单位公开招聘,A,广州市,https://rsj.gz.gov.cn/ywzt/rszdgg/sydwgkzp/index.html,ok,200,3026,14,
-2026-08-28T19:18:18+08:00,GZ-HRSS-INST-NOTICES,广州市事业单位招聘公告专栏,A,广州市,https://rsj.gz.gov.cn/ywzt/rszdgg/sydwgkzp/sydwzpgg/,ok,200,961,12,
-2026-08-28T19:18:18+08:00,GZ-HRSS-INST-APPLY,广州市事业单位招聘网上报名,A,广州市,https://rsj.gz.gov.cn/ywzt/rszdgg/sydwgkzp/sydwzpwsbm/,ok,200,8795,4,
-2026-08-28T19:18:18+08:00,GZ-HRSS-NOTICES,广州市人社局通知公告,B,广州市,https://rsj.gz.gov.cn/zwdt/tzgg/,ok,200,933,1,
-2026-08-28T19:18:18+08:00,GZ-EDU-HR,广州市教育局人事工作,B,广州市,https://jyj.gz.gov.cn/gk/zfxxgkml/qt/gs/rsgz/,ok,200,2052,20,
-2026-08-28T19:18:18+08:00,GZ-HEALTH-NOTICES,广州市卫生健康委员会通知公告,B,广州市,https://wjw.gz.gov.cn/xxgk/tzgg/,ok,200,2064,7,
-2026-08-28T19:18:18+08:00,GZ-SASAC-NOTICES,广州市国资委通知公告,B,广州市,https://gzw.gz.gov.cn/xw/tzgg/,ok,200,1590,11,
-2026-08-28T19:18:18+08:00,GZ-YUEXIU,越秀区公开招考招聘公告,B,广州市越秀区,https://www.yuexiu.gov.cn/zwgk/rsxx/gkzkzp/zpgg/,ok,200,1894,15,
-2026-08-28T19:18:18+08:00,GZ-HAIZHU,海珠区招聘信息,B,广州市海珠区,https://www.haizhu.gov.cn/hzdt/tzgg/zpxx/,ok,200,3130,17,
-2026-08-28T19:18:18+08:00,GZ-LIWAN,荔湾招聘,B,广州市荔湾区,https://www.lw.gov.cn/ywdt/lwzp/index.html,ok,200,8878,20,
-2026-08-28T19:18:18+08:00,GZ-TIANHE,天河区人事招聘,B,广州市天河区,https://www.thnet.gov.cn/thdt/tzgg/rsxx/rszp/,ok,200,4682,19,
-2026-08-28T19:18:18+08:00,GZ-BAIYUN,白云区招聘信息,B,广州市白云区,https://www.by.gov.cn/zwgk/zdlyxxgkzl/jycyxxgkzl/zpxx/,ok,200,3660,17,
-2026-08-28T19:18:18+08:00,GZ-HUANGPU,黄埔区招聘公告,B,广州市黄埔区,https://www.hp.gov.cn/xwzx/tzgg/zpgg/,ok,200,4030,17,
-2026-08-28T19:18:18+08:00,GZ-PANYU,番禺区招考信息,B,广州市番禺区,https://www.panyu.gov.cn/zwgk/rsgk/zkxx/,ok,200,5491,20,
-2026-08-28T19:18:18+08:00,GZ-HUADU,花都区招考公告,B,广州市花都区,https://www.huadu.gov.cn/zwfw/jyly6/jyaz/,ok,200,6755,0,
-2026-08-28T19:18:18+08:00,GZ-NANSHA,南沙区招聘信息,B,广州市南沙区,https://www.gzns.gov.cn/zwgk/zdlyxxgk/jycy/zpxx/,ok,200,2528,20,
-2026-08-28T19:18:18+08:00,GZ-CONGHUA,从化区企事业公开招聘,B,广州市从化区,https://www.conghua.gov.cn/zwfw/ztfw/hycyqsygkzp/mindex.html,ok,200,2195,20,
-2026-08-28T19:18:18+08:00,GZ-ZENGCHENG,增城区事业单位招聘,B,广州市增城区,https://www.zc.gov.cn/gk/rsgz/dwzp/,ok,200,3203,20,
-2026-08-28T19:18:18+08:00,GD-INST-PUBLISH,广东省事业单位公开招聘信息管理系统（公告发布）,A,广东省,https://ggfw.hrss.gd.gov.cn/sydwzp/,ok,200,965,0,
-2026-08-28T19:18:18+08:00,GD-CITY-SHENZHEN,深圳市人社局公职人员招考,B,深圳市,https://hrss.sz.gov.cn/gzryzk/index.html,failed,,,0,<urlopen error [SSL: BAD_ECPOINT] bad ecpoint (_ssl.c:1010)>
-2026-08-28T19:18:18+08:00,GD-CITY-ZHUHAI,珠海市人社局公职招考,B,珠海市,https://zhrsj.zhuhai.gov.cn/zw/tzgg/gzzk/,ok,200,1418,19,
-2026-08-28T19:18:18+08:00,GD-CITY-SHANTOU,汕头市人社局事业单位招聘信息,B,汕头市,https://www.shantou.gov.cn/stsrlzyhshbzj/ztzl/sydwrsgl/zpxx/index.html,ok,200,1895,21,
-2026-08-28T19:18:18+08:00,GD-CITY-FOSHAN,佛山市人社局机关事业单位招录,B,佛山市,https://hrss.foshan.gov.cn/zwgk/jgsydwzl/index.html,failed,,,0,<urlopen error [Errno 101] Network is unreachable>
-2026-08-28T19:18:18+08:00,GD-CITY-SHAOGUAN,韶关市人社局事业单位人事,B,韶关市,https://rsj.sg.gov.cn/ywzt/rsrc/sydw/,failed,,,0,<urlopen error [Errno -5] No address associated with hostname>
-2026-08-28T19:18:18+08:00,GD-CITY-HEYUAN,河源市人社局公告公示,B,河源市,http://www.heyuan.gov.cn/bmjy/hysrlzyhshbzj/gggs/,ok,200,1078,10,
-2026-08-28T19:18:18+08:00,GD-CITY-MEIZHOU,梅州市人社局通知公告,B,梅州市,https://www.meizhou.gov.cn/zwgk/zfjg/srlzyhshbzj/xwzx/tzgg/,manual,,,,站点边缘防护对自动访问返回521；每日报告列为人工补查，不得视为无公告
-2026-08-28T19:18:18+08:00,GD-CITY-HUIZHOU,惠州市人社局通知公告,B,惠州市,https://rsj.huizhou.gov.cn/zwgk/tzgg/index.html,ok,200,1865,1,
-2026-08-28T19:18:18+08:00,GD-CITY-SHANWEI,汕尾市人社局事业单位招聘,B,汕尾市,https://www.shanwei.gov.cn/swrsj/ztzl/rsks/sydwzp/index.html,ok,200,2578,20,
-2026-08-28T19:18:18+08:00,GD-CITY-DONGGUAN,东莞市人社局公开招聘,B,东莞市,https://dghrss.dg.gov.cn/xwzx/gsgg/gkzp/index.html,failed,,,0,<urlopen error [Errno -3] Temporary failure in name resolution>
-2026-08-28T19:18:18+08:00,GD-CITY-ZHONGSHAN,中山市人社局事业单位公开招聘,B,中山市,https://hrss.zs.gov.cn/xxgk/rsxx/sydwgkzp/,ok,200,1557,16,
-2026-08-28T19:18:18+08:00,GD-CITY-JIANGMEN,江门市人社局事业单位公开招聘,B,江门市,https://www.jiangmen.gov.cn/bmpd/jmsrlzyhshbzj/sylm/rsks/syks/,ok,200,1485,19,
-2026-08-28T19:18:18+08:00,GD-CITY-YANGJIANG,阳江市人社局政府信息公开平台,B,阳江市,http://www.yangjiang.gov.cn/yjrsj/gkmlpt/index,ok,200,1072,0,
-2026-08-28T19:18:18+08:00,GD-CITY-ZHANJIANG,湛江市人社局通知公告,B,湛江市,https://www.zhanjiang.gov.cn/zjsfw/bmdh/rsj/zwgk/tzgg/,ok,200,980,6,
-2026-08-28T19:18:18+08:00,GD-CITY-MAOMING,茂名市人社局,B,茂名市,http://mmrs.maoming.gov.cn/,ok,200,1218,0,
-2026-08-28T19:18:18+08:00,GD-CITY-ZHAOQING,肇庆市人社局政府信息公开平台,B,肇庆市,https://www.zhaoqing.gov.cn/zqrsj/gkmlpt/index,failed,,,0,<urlopen error [Errno 101] Network is unreachable>
-2026-08-28T19:18:18+08:00,GD-CITY-QINGYUAN,清远市人社局招聘信息入口,B,清远市,https://www.gdqy.gov.cn/xxgk/zzjg/zfjg/srlzyhshbz/zdly/jycyxxgk/gzdt/,manual,,,,站点对通用自动客户端返回405/412；每日人工补查并继续关注各县区公告
-2026-08-28T19:18:18+08:00,GD-CITY-CHAOZHOU,潮州市人社局通知公告,B,潮州市,https://www.chaozhou.gov.cn/zwgk/szfgz/srlzy/tzgg/,failed,,,0,<urlopen error [Errno 101] Network is unreachable>
-2026-08-28T19:18:18+08:00,GD-CITY-JIEYANG,揭阳市人社局通知公告,B,揭阳市,http://www.jieyang.gov.cn/rsj/tzgg/,ok,200,1216,2,
-2026-08-28T19:18:18+08:00,GD-CITY-YUNFU,云浮市人社局通知公告,B,云浮市,https://www.yunfu.gov.cn/rsj/zx/tzgg/index.html,ok,200,1795,6,
+2026-08-29T14:59:56+08:00,NAT-CIVIL-2026,中央机关及其直属机构2026年度考试录用公务员专题,A,全国/广东职位,http://bm.scs.gov.cn/kl2026,ok,200,736,0,
+2026-08-29T14:59:56+08:00,NAT-CIVIL-HOME,国家公务员局,A,全国,http://www.scs.gov.cn/,ok,200,1054,0,
+2026-08-29T14:59:56+08:00,NAT-INST-MOHRSS,中央和国家机关所属事业单位公开招聘服务平台,A,全国/驻粤单位,https://www.mohrss.gov.cn/SYrlzyhshbzb/fwyd/SYkaoshizhaopin/zyhgjjgsydwgkzp/,ok,200,2741,0,
+2026-08-29T14:59:56+08:00,NAT-PUBLIC-JOBS,中国公共招聘网事业单位公开招聘,A,全国/广东,http://job.mohrss.gov.cn/cjobs/institution/listInstitution,ok,200,1218,13,
+2026-08-29T14:59:56+08:00,GD-ORG-NOTICES,广东组织工作网通知公告,A,广东省,https://www.gdzz.gov.cn/tzgg/index.html,ok,200,1302,17,
+2026-08-29T14:59:56+08:00,GD-ORG-CIVIL,广东组织工作网公务员录用,A,广东省,https://www.gdzz.gov.cn/gwygz/lypytzgg/,ok,200,1459,17,
+2026-08-29T14:59:56+08:00,GD-ORG-INST,广东组织工作网事业单位人事管理,A,广东省,https://www.gdzz.gov.cn/gbgz/sydwrsgl/,ok,200,1304,13,
+2026-08-29T14:59:56+08:00,GD-HRSS-INST,广东省人社厅事业单位招聘公告,A,广东省,https://hrss.gd.gov.cn/zwgk/sydwzp/zpgg/,ok,200,1615,10,
+2026-08-29T14:59:56+08:00,GD-RSKS,广东人事考试网,A,广东省,https://rsks.gd.gov.cn/,ok,200,2117,14,
+2026-08-29T14:59:56+08:00,GD-CIVIL-SYSTEM,广东省公务员考试录用管理信息系统公告,A,广东省,https://ggfw.hrss.gd.gov.cn/gwyks/anouns.do,ok,200,906,0,
+2026-08-29T14:59:56+08:00,GD-SELECT-SYSTEM,广东省选调优秀大学毕业生系统公告,A,广东省,https://ggfw.hrss.gd.gov.cn/yxks/anouns.do,ok,200,659,1,
+2026-08-29T14:59:56+08:00,GD-INST-SYSTEM,广东省事业单位公开招聘信息管理系统,A,广东省,https://ggfw.hrss.gd.gov.cn/sydwbk/index.do,manual,,,,登录型系统；保留为操作入口，不自动抓取
+2026-08-29T14:59:56+08:00,GD-PUBLIC-RECRUIT,广东公共求职招聘服务平台,C,广东省,https://ggfw.hrss.gd.gov.cn/recruitment/internet/main/,ok,200,658,0,
+2026-08-29T14:59:56+08:00,GD-TALENT,广东人才网,C,广东省,https://www.gdrc.com/,failed,,,0,<urlopen error timed out>
+2026-08-29T14:59:56+08:00,GD-SASAC,广东省国资委,B,广东省,https://gzw.gd.gov.cn/,ok,200,2957,0,
+2026-08-29T14:59:56+08:00,GZ-HRSS-CIVIL,广州市人社局公务员考录,A,广州市,https://rsj.gz.gov.cn/ywzt/rszdgg/gwykl/,ok,200,3845,14,
+2026-08-29T14:59:56+08:00,GZ-HRSS-INST,广州市人社局事业单位公开招聘,A,广州市,https://rsj.gz.gov.cn/ywzt/rszdgg/sydwgkzp/index.html,ok,200,855,14,
+2026-08-29T14:59:56+08:00,GZ-HRSS-INST-NOTICES,广州市事业单位招聘公告专栏,A,广州市,https://rsj.gz.gov.cn/ywzt/rszdgg/sydwgkzp/sydwzpgg/,ok,200,922,12,
+2026-08-29T14:59:56+08:00,GZ-HRSS-INST-APPLY,广州市事业单位招聘网上报名,A,广州市,https://rsj.gz.gov.cn/ywzt/rszdgg/sydwgkzp/sydwzpwsbm/,ok,200,861,4,
+2026-08-29T14:59:56+08:00,GZ-HRSS-NOTICES,广州市人社局通知公告,B,广州市,https://rsj.gz.gov.cn/zwdt/tzgg/,ok,200,895,1,
+2026-08-29T14:59:56+08:00,GZ-EDU-HR,广州市教育局人事工作,B,广州市,https://jyj.gz.gov.cn/gk/zfxxgkml/qt/gs/rsgz/,ok,200,1789,20,
+2026-08-29T14:59:56+08:00,GZ-HEALTH-NOTICES,广州市卫生健康委员会通知公告,B,广州市,https://wjw.gz.gov.cn/xxgk/tzgg/,ok,200,1819,7,
+2026-08-29T14:59:56+08:00,GZ-SASAC-NOTICES,广州市国资委通知公告,B,广州市,https://gzw.gz.gov.cn/xw/tzgg/,ok,200,1944,11,
+2026-08-29T14:59:56+08:00,GZ-YUEXIU,越秀区公开招考招聘公告,B,广州市越秀区,https://www.yuexiu.gov.cn/zwgk/rsxx/gkzkzp/zpgg/,ok,200,4345,15,
+2026-08-29T14:59:56+08:00,GZ-HAIZHU,海珠区招聘信息,B,广州市海珠区,https://www.haizhu.gov.cn/hzdt/tzgg/zpxx/,ok,200,1970,17,
+2026-08-29T14:59:56+08:00,GZ-LIWAN,荔湾招聘,B,广州市荔湾区,https://www.lw.gov.cn/ywdt/lwzp/index.html,ok,200,2472,20,
+2026-08-29T14:59:56+08:00,GZ-TIANHE,天河区人事招聘,B,广州市天河区,https://www.thnet.gov.cn/thdt/tzgg/rsxx/rszp/,ok,200,3629,19,
+2026-08-29T14:59:56+08:00,GZ-BAIYUN,白云区招聘信息,B,广州市白云区,https://www.by.gov.cn/zwgk/zdlyxxgkzl/jycyxxgkzl/zpxx/,ok,200,4060,17,
+2026-08-29T14:59:56+08:00,GZ-HUANGPU,黄埔区招聘公告,B,广州市黄埔区,https://www.hp.gov.cn/xwzx/tzgg/zpgg/,ok,200,3503,17,
+2026-08-29T14:59:56+08:00,GZ-PANYU,番禺区招考信息,B,广州市番禺区,https://www.panyu.gov.cn/zwgk/rsgk/zkxx/,ok,200,6292,20,
+2026-08-29T14:59:56+08:00,GZ-HUADU,花都区招考公告,B,广州市花都区,https://www.huadu.gov.cn/zwfw/jyly6/jyaz/,ok,200,4886,0,
+2026-08-29T14:59:56+08:00,GZ-NANSHA,南沙区招聘信息,B,广州市南沙区,https://www.gzns.gov.cn/zwgk/zdlyxxgk/jycy/zpxx/,ok,200,3561,20,
+2026-08-29T14:59:56+08:00,GZ-CONGHUA,从化区企事业公开招聘,B,广州市从化区,https://www.conghua.gov.cn/zwfw/ztfw/hycyqsygkzp/mindex.html,ok,200,1657,20,
+2026-08-29T14:59:56+08:00,GZ-ZENGCHENG,增城区事业单位招聘,B,广州市增城区,https://www.zc.gov.cn/gk/rsgz/dwzp/,ok,200,2085,20,
+2026-08-29T14:59:56+08:00,GD-INST-PUBLISH,广东省事业单位公开招聘信息管理系统（公告发布）,A,广东省,https://ggfw.hrss.gd.gov.cn/sydwzp/,ok,200,914,0,
+2026-08-29T14:59:56+08:00,GD-CITY-SHENZHEN,深圳市人社局公职人员招考,B,深圳市,https://hrss.sz.gov.cn/gzryzk/index.html,failed,,,0,<urlopen error [SSL: BAD_ECPOINT] bad ecpoint (_ssl.c:1010)>
+2026-08-29T14:59:56+08:00,GD-CITY-ZHUHAI,珠海市人社局公职招考,B,珠海市,https://zhrsj.zhuhai.gov.cn/zw/tzgg/gzzk/,ok,200,1305,19,
+2026-08-29T14:59:56+08:00,GD-CITY-SHANTOU,汕头市人社局事业单位招聘信息,B,汕头市,https://www.shantou.gov.cn/stsrlzyhshbzj/ztzl/sydwrsgl/zpxx/index.html,ok,200,1790,21,
+2026-08-29T14:59:56+08:00,GD-CITY-FOSHAN,佛山市人社局机关事业单位招录,B,佛山市,https://hrss.foshan.gov.cn/zwgk/jgsydwzl/index.html,failed,,,0,<urlopen error [Errno 101] Network is unreachable>
+2026-08-29T14:59:56+08:00,GD-CITY-SHAOGUAN,韶关市人社局事业单位人事,B,韶关市,https://rsj.sg.gov.cn/ywzt/rsrc/sydw/,failed,,,0,<urlopen error [Errno -5] No address associated with hostname>
+2026-08-29T14:59:56+08:00,GD-CITY-HEYUAN,河源市人社局公告公示,B,河源市,http://www.heyuan.gov.cn/bmjy/hysrlzyhshbzj/gggs/,ok,200,893,10,
+2026-08-29T14:59:56+08:00,GD-CITY-MEIZHOU,梅州市人社局通知公告,B,梅州市,https://www.meizhou.gov.cn/zwgk/zfjg/srlzyhshbzj/xwzx/tzgg/,manual,,,,站点边缘防护对自动访问返回521；每日报告列为人工补查，不得视为无公告
+2026-08-29T14:59:56+08:00,GD-CITY-HUIZHOU,惠州市人社局通知公告,B,惠州市,https://rsj.huizhou.gov.cn/zwgk/tzgg/index.html,failed,,,0,<urlopen error [Errno 101] Network is unreachable>
+2026-08-29T14:59:56+08:00,GD-CITY-SHANWEI,汕尾市人社局事业单位招聘,B,汕尾市,https://www.shanwei.gov.cn/swrsj/ztzl/rsks/sydwzp/index.html,ok,200,1633,20,
+2026-08-29T14:59:56+08:00,GD-CITY-DONGGUAN,东莞市人社局公开招聘,B,东莞市,https://dghrss.dg.gov.cn/xwzx/gsgg/gkzp/index.html,failed,,,0,<urlopen error [Errno -3] Temporary failure in name resolution>
+2026-08-29T14:59:56+08:00,GD-CITY-ZHONGSHAN,中山市人社局事业单位公开招聘,B,中山市,https://hrss.zs.gov.cn/xxgk/rsxx/sydwgkzp/,ok,200,1832,16,
+2026-08-29T14:59:56+08:00,GD-CITY-JIANGMEN,江门市人社局事业单位公开招聘,B,江门市,https://www.jiangmen.gov.cn/bmpd/jmsrlzyhshbzj/sylm/rsks/syks/,ok,200,3439,19,
+2026-08-29T14:59:56+08:00,GD-CITY-YANGJIANG,阳江市人社局政府信息公开平台,B,阳江市,http://www.yangjiang.gov.cn/yjrsj/gkmlpt/index,ok,200,2382,0,
+2026-08-29T14:59:56+08:00,GD-CITY-ZHANJIANG,湛江市人社局通知公告,B,湛江市,https://www.zhanjiang.gov.cn/zjsfw/bmdh/rsj/zwgk/tzgg/,ok,200,3655,5,
+2026-08-29T14:59:56+08:00,GD-CITY-MAOMING,茂名市人社局,B,茂名市,http://mmrs.maoming.gov.cn/,ok,200,1549,0,
+2026-08-29T14:59:56+08:00,GD-CITY-ZHAOQING,肇庆市人社局政府信息公开平台,B,肇庆市,https://www.zhaoqing.gov.cn/zqrsj/gkmlpt/index,failed,,,0,<urlopen error [Errno 101] Network is unreachable>
+2026-08-29T14:59:56+08:00,GD-CITY-QINGYUAN,清远市人社局招聘信息入口,B,清远市,https://www.gdqy.gov.cn/xxgk/zzjg/zfjg/srlzyhshbz/zdly/jycyxxgk/gzdt/,manual,,,,站点对通用自动客户端返回405/412；每日人工补查并继续关注各县区公告
+2026-08-29T14:59:56+08:00,GD-CITY-CHAOZHOU,潮州市人社局通知公告,B,潮州市,https://www.chaozhou.gov.cn/zwgk/szfgz/srlzy/tzgg/,failed,,,0,<urlopen error [Errno 101] Network is unreachable>
+2026-08-29T14:59:56+08:00,GD-CITY-JIEYANG,揭阳市人社局通知公告,B,揭阳市,http://www.jieyang.gov.cn/rsj/tzgg/,ok,200,4642,2,
+2026-08-29T14:59:56+08:00,GD-CITY-YUNFU,云浮市人社局通知公告,B,云浮市,https://www.yunfu.gov.cn/rsj/zx/tzgg/index.html,ok,200,1536,6,
