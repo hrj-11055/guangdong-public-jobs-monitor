@@ -1,25 +1,22 @@
 # 广东公考事业编每日监控报告
 
-- 核验时间：2026-09-01T01:35:56+08:00（Asia/Shanghai）
+- 核验时间：2026-09-01T13:01:05+08:00（Asia/Shanghai）
 - 自动检查：成功 44，失败 8，人工入口 3
 - A 级来源成功率：16/16
-- 本次新增：7
+- 本次新增：4
 
 ## 新发现
-- [广州市教育局直属事业单位广州科技贸易职业学院2026年第一次引进急需人才第一批拟聘用人员公示](https://jyj.gz.gov.cn/gk/zfxxgkml/qt/gs/rsgz/content/post_10984582.html) — 广州市 / 事业编 / 2026-08-31
-- [广州市教育局直属事业单位2026年第一次公开招聘教师第六批拟聘用人员公示](https://jyj.gz.gov.cn/gk/zfxxgkml/qt/gs/rsgz/content/post_10984575.html) — 广州市 / 事业编 / 2026-08-31
-- [2025年下半年广州市教育系统校园招聘“优才计划”第四批拟聘用人员公示](https://jyj.gz.gov.cn/gk/zfxxgkml/qt/gs/rsgz/content/post_10984555.html) — 广州市 / 待核实 / 2026-08-31
-- [广州市教育局直属事业单位广州市第六中学2026年第一次公开招聘教师第二批拟聘用人员公示](https://jyj.gz.gov.cn/gk/zfxxgkml/qt/gs/rsgz/content/post_10984545.html) — 广州市 / 事业编 / 2026-08-31
-- [登峰街道办事处公开招聘辅助人员公告 2026-08-31](http://www.yuexiu.gov.cn/zwgk/rsxx/gkzkzp/zpgg/content/post_10984520.html) — 广州市越秀区 / 编外 / 2026-08-31
-- [2026年广州市荔湾区教育局公开招聘事业编制教师面试公告](http://www.lw.gov.cn/ywdt/lwzp/content/post_10985490.html) — 广州市荔湾区 / 事业编 / 2026-08-31
-- [汕头市卫生健康局属下汕头市人民医院2025年下半年公开招聘工作人员拟聘用人员（第二批）公示](https://www.shantou.gov.cn/stsrlzyhshbzj/ztzl/sydwrsgl/zpxx/content/post_2563935.html) — 汕头市 / 待核实 / 2026-08-31
+- [广东石油化工学院2026年公开招聘辅导员（第二批）公告](https://hrss.gd.gov.cn/zwgk/sydwzp/zpgg/content/post_4949166.html) — 广东省 / 待核实 / 2026-01-27
+- [广州市天河区2026年公开招聘社区专职工作人员面试公告](http://www.thnet.gov.cn/thdt/tzgg/rsxx/rszp/content/post_10985517.html) — 广州市天河区 / 编外 / 2026-08-31
+- [双沙社区居委会公开招聘工作人员的公告](http://www.hp.gov.cn/xwzx/tzgg/zpgg/content/post_10985923.html) — 广州市黄埔区 / 待核实 / 2026-09-01
+- [广州开发区穗港科技合作园管理委员会拟聘人员公示](http://www.hp.gov.cn/xwzx/tzgg/zpgg/content/post_10985702.html) — 广州市黄埔区 / 待核实 / 2026-09-01
 
 ## 失败来源
 - 广东人才网：<urlopen error timed out>
 - 深圳市人社局公职人员招考：<urlopen error [SSL: BAD_ECPOINT] bad ecpoint (_ssl.c:1010)>
 - 佛山市人社局机关事业单位招录：<urlopen error [Errno 101] Network is unreachable>
 - 韶关市人社局事业单位人事：<urlopen error [Errno -5] No address associated with hostname>
-- 惠州市人社局通知公告：<urlopen error [Errno 101] Network is unreachable>
+- 惠州市人社局通知公告：<urlopen error [Errno 104] Connection reset by peer>
 - 东莞市人社局公开招聘：<urlopen error [Errno -3] Temporary failure in name resolution>
 - 肇庆市人社局政府信息公开平台：<urlopen error [Errno 101] Network is unreachable>
 - 潮州市人社局通知公告：<urlopen error [Errno 101] Network is unreachable>
