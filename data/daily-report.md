@@ -1,15 +1,21 @@
 # 广东公考事业编每日监控报告
 
-- 核验时间：2026-09-01T13:01:05+08:00（Asia/Shanghai）
-- 自动检查：成功 44，失败 8，人工入口 3
+- 核验时间：2026-09-01T22:50:06+08:00（Asia/Shanghai）
+- 自动检查：成功 45，失败 7，人工入口 3
 - A 级来源成功率：16/16
-- 本次新增：4
+- 本次新增：10
 
 ## 新发现
-- [广东石油化工学院2026年公开招聘辅导员（第二批）公告](https://hrss.gd.gov.cn/zwgk/sydwzp/zpgg/content/post_4949166.html) — 广东省 / 待核实 / 2026-01-27
-- [广州市天河区2026年公开招聘社区专职工作人员面试公告](http://www.thnet.gov.cn/thdt/tzgg/rsxx/rszp/content/post_10985517.html) — 广州市天河区 / 编外 / 2026-08-31
-- [双沙社区居委会公开招聘工作人员的公告](http://www.hp.gov.cn/xwzx/tzgg/zpgg/content/post_10985923.html) — 广州市黄埔区 / 待核实 / 2026-09-01
-- [广州开发区穗港科技合作园管理委员会拟聘人员公示](http://www.hp.gov.cn/xwzx/tzgg/zpgg/content/post_10985702.html) — 广州市黄埔区 / 待核实 / 2026-09-01
+- [中国天主教神哲学院2026年度面向社会公开招聘工作人员公告](https://www.mohrss.gov.cn/SYrlzyhshbzb/fwyd/SYkaoshizhaopin/zyhgjjgsydwgkzp/zpgg/202608/t20260831_583080.html) — 全国/广东 / 待核实 / 2026-09-01
+- [东莞市残疾人托养中心2026年公开招聘高层次人才公告](http://www.gddgdpf.org.cn/dgdpf/tzgg/202608/b1d204e494dd4090b1449041169137fd.shtml) — 东莞市 / 待核实 / 2026-08-20
+- [“百万英才汇南粤”东莞市2025年10月公开招聘基础教育高层次和急需紧缺人才第五批拟聘用人员公示](https://edu.dg.gov.cn/flfw/jsgl/rsxx/content/post_4573718.html) — 东莞市 / 待核实 / 2026-08-20
+- [东莞市康复医院2025年自主公开招聘第二批编外聘用人员因妊娠期推迟体检拟聘人员公示](https://www.dgskfyy.com/kfyy/xinxigonggao/202608/7359a50a960b47abbe56c17a0a6fa8ed.shtml) — 东莞市 / 编外 / 2026-08-17
+- [东莞市残疾人托养中心2026年公开招聘编外聘用人员拟聘人员公示](http://www.gddgdpf.org.cn/dgdpf/tzgg/202608/0bd1eb6a83fc49dd85c44c023781b9aa.shtml) — 东莞市 / 编外 / 2026-08-14
+- [东莞市康复医院2026年公开招聘高层次人才拟聘用人员公示](http://www.gddgdpf.org.cn/dgdpf/tzgg/202608/78577bb14ec3415e975aa477368b5a20.shtml) — 东莞市 / 待核实 / 2026-08-12
+- [东莞市康复实验学校2026年公开招聘拟聘用人员公示](http://www.gddgdpf.org.cn/dgdpf/tzgg/202608/c40296c225d04974bc9ce450a624c569.shtml) — 东莞市 / 待核实 / 2026-08-10
+- [中山市卫生健康局所属事业单位2025年公开招聘事业单位人员拟聘用人员名单公示（第三批）](http://hrss.zs.gov.cn/xxgk/rsxx/sydwgkzp/content/post_2646760.html) — 中山市 / 事业编 / 2026-09-01
+- [中山市阜沙镇人民政府所属事业单位2026年公开招聘事业单位人员拟聘用人员名单公示（第二批）](http://hrss.zs.gov.cn/xxgk/rsxx/sydwgkzp/content/post_2646749.html) — 中山市 / 事业编 / 2026-09-01
+- [中山市板芙镇人民政府所属事业单位2026年第二期公开招聘事业单位人员拟聘用人员名单公示](http://hrss.zs.gov.cn/xxgk/rsxx/sydwgkzp/content/post_2646751.html) — 中山市 / 事业编 / 2026-09-01
 
 ## 失败来源
 - 广东人才网：<urlopen error timed out>
@@ -17,7 +23,6 @@
 - 佛山市人社局机关事业单位招录：<urlopen error [Errno 101] Network is unreachable>
 - 韶关市人社局事业单位人事：<urlopen error [Errno -5] No address associated with hostname>
 - 惠州市人社局通知公告：<urlopen error [Errno 104] Connection reset by peer>
-- 东莞市人社局公开招聘：<urlopen error [Errno -3] Temporary failure in name resolution>
 - 肇庆市人社局政府信息公开平台：<urlopen error [Errno 101] Network is unreachable>
 - 潮州市人社局通知公告：<urlopen error [Errno 101] Network is unreachable>
 
