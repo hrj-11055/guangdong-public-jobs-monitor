@@ -1,21 +1,18 @@
 # 广东公考事业编每日监控报告
 
-- 核验时间：2026-09-01T22:50:06+08:00（Asia/Shanghai）
+- 核验时间：2026-09-02T12:24:17+08:00（Asia/Shanghai）
 - 自动检查：成功 45，失败 7，人工入口 3
 - A 级来源成功率：16/16
-- 本次新增：10
+- 本次新增：7
 
 ## 新发现
-- [中国天主教神哲学院2026年度面向社会公开招聘工作人员公告](https://www.mohrss.gov.cn/SYrlzyhshbzb/fwyd/SYkaoshizhaopin/zyhgjjgsydwgkzp/zpgg/202608/t20260831_583080.html) — 全国/广东 / 待核实 / 2026-09-01
-- [东莞市残疾人托养中心2026年公开招聘高层次人才公告](http://www.gddgdpf.org.cn/dgdpf/tzgg/202608/b1d204e494dd4090b1449041169137fd.shtml) — 东莞市 / 待核实 / 2026-08-20
-- [“百万英才汇南粤”东莞市2025年10月公开招聘基础教育高层次和急需紧缺人才第五批拟聘用人员公示](https://edu.dg.gov.cn/flfw/jsgl/rsxx/content/post_4573718.html) — 东莞市 / 待核实 / 2026-08-20
-- [东莞市康复医院2025年自主公开招聘第二批编外聘用人员因妊娠期推迟体检拟聘人员公示](https://www.dgskfyy.com/kfyy/xinxigonggao/202608/7359a50a960b47abbe56c17a0a6fa8ed.shtml) — 东莞市 / 编外 / 2026-08-17
-- [东莞市残疾人托养中心2026年公开招聘编外聘用人员拟聘人员公示](http://www.gddgdpf.org.cn/dgdpf/tzgg/202608/0bd1eb6a83fc49dd85c44c023781b9aa.shtml) — 东莞市 / 编外 / 2026-08-14
-- [东莞市康复医院2026年公开招聘高层次人才拟聘用人员公示](http://www.gddgdpf.org.cn/dgdpf/tzgg/202608/78577bb14ec3415e975aa477368b5a20.shtml) — 东莞市 / 待核实 / 2026-08-12
-- [东莞市康复实验学校2026年公开招聘拟聘用人员公示](http://www.gddgdpf.org.cn/dgdpf/tzgg/202608/c40296c225d04974bc9ce450a624c569.shtml) — 东莞市 / 待核实 / 2026-08-10
-- [中山市卫生健康局所属事业单位2025年公开招聘事业单位人员拟聘用人员名单公示（第三批）](http://hrss.zs.gov.cn/xxgk/rsxx/sydwgkzp/content/post_2646760.html) — 中山市 / 事业编 / 2026-09-01
-- [中山市阜沙镇人民政府所属事业单位2026年公开招聘事业单位人员拟聘用人员名单公示（第二批）](http://hrss.zs.gov.cn/xxgk/rsxx/sydwgkzp/content/post_2646749.html) — 中山市 / 事业编 / 2026-09-01
-- [中山市板芙镇人民政府所属事业单位2026年第二期公开招聘事业单位人员拟聘用人员名单公示](http://hrss.zs.gov.cn/xxgk/rsxx/sydwgkzp/content/post_2646751.html) — 中山市 / 事业编 / 2026-09-01
+- [广州医科大学校本部2026年第六次公开招聘工作人员公告](https://zpxt.gzhmu.edu.cn/gzykdx/recruit/a.epx?action=webView&entityId=HR_RECRUIT_NOTICE&selectedId=789+) — 广州市 / 待核实 / 日期待核验
+- [广州市天河区2026年公开招聘事业单位工作人员资格复审公告](http://www.thnet.gov.cn/thdt/tzgg/rsxx/rszp/content/post_10988053.html) — 广州市天河区 / 事业编 / 2026-09-02
+- [广州市白云区钟落潭镇2026年政府雇员招聘拟聘用人员公示](https://www.by.gov.cn/zwgk/zdlyxxgkzl/jycyxxgkzl/zpxx/qnzpxx/content/post_10988178.html) — 广州市白云区 / 编外 / 2026-09-02
+- [广州市白云区钟落潭镇2026年公开招聘合同制聘员拟聘用人员公示](https://www.by.gov.cn/zwgk/zdlyxxgkzl/jycyxxgkzl/zpxx/qnzpxx/content/post_10988175.html) — 广州市白云区 / 编外 / 2026-09-02
+- [广州市白云区卫生健康局2026年公开招聘政府雇员笔试成绩及资格复审安排公告](https://www.by.gov.cn/zwgk/zdlyxxgkzl/jycyxxgkzl/zpxx/qnzpxx/content/post_10987668.html) — 广州市白云区 / 编外 / 2026-09-02
+- [黄埔区南岗街南岗股份经济联合社拟聘用工作人员名单公示](http://www.hp.gov.cn/xwzx/tzgg/zpgg/content/post_10988039.html) — 广州市黄埔区 / 待核实 / 2026-09-02
+- [关于广州市黄埔区妇幼保健院2026年编外聘用人员招聘笔试成绩公示及资格复审的通知](http://www.hp.gov.cn/xwzx/tzgg/zpgg/content/post_10987632.html) — 广州市黄埔区 / 编外 / 2026-09-02
 
 ## 失败来源
 - 广东人才网：<urlopen error timed out>
