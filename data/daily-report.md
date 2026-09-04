@@ -1,13 +1,16 @@
 # 广东公考事业编每日监控报告
 
-- 核验时间：2026-09-03T12:17:42+08:00（Asia/Shanghai）
+- 核验时间：2026-09-04T12:24:28+08:00（Asia/Shanghai）
 - 自动检查：成功 44，失败 8，人工入口 3
 - A 级来源成功率：16/16
-- 本次新增：2
+- 本次新增：5
 
 ## 新发现
-- [联和街道2026年招聘政府聘员考试综合总成绩及进入体检人员名单公告](http://www.hp.gov.cn/xwzx/tzgg/zpgg/content/post_10989630.html) — 广州市黄埔区 / 待核实 / 2026-09-03
-- [【区人社局】广州市从化区卫生健康局所属事业单位2025年第二次公开招聘事业编制工作人员第三...](http://www.conghua.gov.cn/zwfw/ztfw/hycyqsygkzp/content/post_10989449.html) — 广州市从化区 / 事业编 / 2026-09-03
+- [广州市社会科学院2026年第一次引进急需专业人才拟聘用名单公示](https://www.gzass.gd.cn/gzsky/contents/5617/75054.html) — 广州市 / 待核实 / 2019-10-18
+- [珠吉街道综合事务中心2026年公开招聘环卫、消杀工作人员的公告](http://www.thnet.gov.cn/thdt/tzgg/rsxx/rszp/content/post_10991044.html) — 广州市天河区 / 待核实 / 2026-09-04
+- [2026年广州市黄埔区黄埔街下沙股份经济联合社公开招聘社区工作人员公告](http://www.hp.gov.cn/xwzx/tzgg/zpgg/content/post_10991012.html) — 广州市黄埔区 / 待核实 / 2026-09-04
+- [广州市南沙区事业单位2026年第二批公开招聘高校毕业生公告](http://www.gzns.gov.cn/zwgk/zdlyxxgk/jycy/zpxx/content/post_10990638.html) — 广州市南沙区 / 事业编 / 2026-09-04
+- [云浮市2026年度高校毕业生基层公共就业创业服务岗位招募总成绩及入围体检人员名单公示 2026-09-03](https://www.yunfu.gov.cn/rsj/zx/tzgg/content/post_2038096.html) — 云浮市 / 待核实 / 2026-09-03
 
 ## 失败来源
 - 广东人才网：<urlopen error timed out>
