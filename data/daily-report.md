@@ -1,20 +1,23 @@
 # 广东公考事业编每日监控报告
 
-- 核验时间：2026-09-08T12:28:47+08:00（Asia/Shanghai）
+- 核验时间：2026-09-08T22:30:11+08:00（Asia/Shanghai）
 - 自动检查：成功 44，失败 8，人工入口 3
 - A 级来源成功率：16/16
-- 本次新增：0
+- 本次新增：5
 
 ## 新发现
-
-本次未发现新的候选公告链接。此结论只表示成功访问来源的页面未出现新链接；失败来源需人工补查。
+- [国家药品监督管理局医疗器械技术审评中心2026年度下半年公开招聘公告](https://www.mohrss.gov.cn/SYrlzyhshbzb/fwyd/SYkaoshizhaopin/zyhgjjgsydwgkzp/zpgg/202609/t20260908_583509.html) — 全国/广东 / 待核实 / 2026-09-08
+- [广州市白云区康园工疗站服务中心公开招聘工作人员公告](https://www.by.gov.cn/zwgk/zdlyxxgkzl/jycyxxgkzl/zpxx/qnzpxx/content/post_10996002.html) — 广州市白云区 / 待核实 / 2026-09-08
+- [黄埔区大沙街道公开招聘编外聘用人员的公告](http://www.hp.gov.cn/xwzx/tzgg/zpgg/content/post_10995966.html) — 广州市黄埔区 / 编外 / 2026-09-08
+- [2025年下半年广州市教育系统校园招聘“优才计划”番禺区教育局拟聘用递补人员公示（第三批）](http://www.panyu.gov.cn/zwgk/rsgk/zkxx/content/post_10995921.html) — 广州市番禺区 / 待核实 / 2026-09-08
+- [珠海市教育局2026年秋季面向社会公开招聘直属学校事业编制教... 2026-09-08](https://zhrsj.zhuhai.gov.cn/zw/tzgg/gzzk/content/post_3939078.html) — 珠海市 / 事业编 / 2026-09-08
 
 ## 失败来源
 - 广东人才网：<urlopen error timed out>
 - 深圳市人社局公职人员招考：<urlopen error [SSL: BAD_ECPOINT] bad ecpoint (_ssl.c:1010)>
 - 佛山市人社局机关事业单位招录：<urlopen error [Errno 101] Network is unreachable>
 - 韶关市人社局事业单位人事：<urlopen error [Errno -5] No address associated with hostname>
-- 惠州市人社局通知公告：<urlopen error [Errno 101] Network is unreachable>
+- 惠州市人社局通知公告：<urlopen error [Errno 104] Connection reset by peer>
 - 东莞市人社局公开招聘：<urlopen error [Errno -3] Temporary failure in name resolution>
 - 肇庆市人社局政府信息公开平台：<urlopen error [Errno 101] Network is unreachable>
 - 潮州市人社局通知公告：<urlopen error [Errno 101] Network is unreachable>
