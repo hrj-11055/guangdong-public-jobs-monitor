@@ -1,19 +1,20 @@
 # 广东公考事业编每日监控报告
 
-- 核验时间：2026-09-08T22:30:11+08:00（Asia/Shanghai）
-- 自动检查：成功 44，失败 8，人工入口 3
+- 核验时间：2026-09-09T12:35:19+08:00（Asia/Shanghai）
+- 自动检查：成功 45，失败 7，人工入口 3
 - A 级来源成功率：16/16
-- 本次新增：5
+- 本次新增：7
 
 ## 新发现
-- [国家药品监督管理局医疗器械技术审评中心2026年度下半年公开招聘公告](https://www.mohrss.gov.cn/SYrlzyhshbzb/fwyd/SYkaoshizhaopin/zyhgjjgsydwgkzp/zpgg/202609/t20260908_583509.html) — 全国/广东 / 待核实 / 2026-09-08
-- [广州市白云区康园工疗站服务中心公开招聘工作人员公告](https://www.by.gov.cn/zwgk/zdlyxxgkzl/jycyxxgkzl/zpxx/qnzpxx/content/post_10996002.html) — 广州市白云区 / 待核实 / 2026-09-08
-- [黄埔区大沙街道公开招聘编外聘用人员的公告](http://www.hp.gov.cn/xwzx/tzgg/zpgg/content/post_10995966.html) — 广州市黄埔区 / 编外 / 2026-09-08
-- [2025年下半年广州市教育系统校园招聘“优才计划”番禺区教育局拟聘用递补人员公示（第三批）](http://www.panyu.gov.cn/zwgk/rsgk/zkxx/content/post_10995921.html) — 广州市番禺区 / 待核实 / 2026-09-08
-- [珠海市教育局2026年秋季面向社会公开招聘直属学校事业编制教... 2026-09-08](https://zhrsj.zhuhai.gov.cn/zw/tzgg/gzzk/content/post_3939078.html) — 珠海市 / 事业编 / 2026-09-08
+- [广州中医药大学第三附属医院2026年第一批公开招聘工作人员公告](https://hrss.gd.gov.cn/zwgk/sydwzp/zpgg/content/post_4953420.html) — 广东省 / 待核实 / 2026-01-27
+- [广东粤垦农业小额贷款股份有限公司拟聘人员公示](https://www.gdrc.com/index.php?m=&c=news&a=news_show&id=837) — 广东省 / 国企 / 日期待核验
+- [广东粤垦农业小额贷款股份有限公司拟聘人员公示](https://www.gdrc.com/index.php?m=&c=news&a=news_show&id=836) — 广东省 / 国企 / 日期待核验
+- [广州市越秀区人民政府梅花村街道办事处面向社会公开招聘辅助人员公告 2026-09-09](http://www.yuexiu.gov.cn/zwgk/rsxx/gkzkzp/zpgg/content/post_10996499.html) — 广州市越秀区 / 编外 / 2026-09-09
+- [滨江街关于公开招聘雇员笔试安排](https://www.haizhu.gov.cn/hzdt/tzgg/zpxx/content/post_10996109.html) — 广州市海珠区 / 编外 / 2026-09-08
+- [公益性岗位拟聘用人员公示](http://www.thnet.gov.cn/thdt/tzgg/rsxx/rszp/content/post_10993513.html) — 广州市天河区 / 待核实 / 2026-09-09
+- [天河区黄村街道综合事务中心公开招聘编外环卫保洁工作人员的公告](http://www.thnet.gov.cn/thdt/tzgg/rsxx/rszp/content/post_10996127.html) — 广州市天河区 / 编外 / 2026-09-09
 
 ## 失败来源
-- 广东人才网：<urlopen error timed out>
 - 深圳市人社局公职人员招考：<urlopen error [SSL: BAD_ECPOINT] bad ecpoint (_ssl.c:1010)>
 - 佛山市人社局机关事业单位招录：<urlopen error [Errno 101] Network is unreachable>
 - 韶关市人社局事业单位人事：<urlopen error [Errno -5] No address associated with hostname>
