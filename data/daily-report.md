@@ -1,20 +1,21 @@
 # 广东公考事业编每日监控报告
 
-- 核验时间：2026-09-09T12:35:19+08:00（Asia/Shanghai）
-- 自动检查：成功 45，失败 7，人工入口 3
+- 核验时间：2026-09-09T22:31:33+08:00（Asia/Shanghai）
+- 自动检查：成功 44，失败 8，人工入口 3
 - A 级来源成功率：16/16
 - 本次新增：7
 
 ## 新发现
-- [广州中医药大学第三附属医院2026年第一批公开招聘工作人员公告](https://hrss.gd.gov.cn/zwgk/sydwzp/zpgg/content/post_4953420.html) — 广东省 / 待核实 / 2026-01-27
-- [广东粤垦农业小额贷款股份有限公司拟聘人员公示](https://www.gdrc.com/index.php?m=&c=news&a=news_show&id=837) — 广东省 / 国企 / 日期待核验
-- [广东粤垦农业小额贷款股份有限公司拟聘人员公示](https://www.gdrc.com/index.php?m=&c=news&a=news_show&id=836) — 广东省 / 国企 / 日期待核验
-- [广州市越秀区人民政府梅花村街道办事处面向社会公开招聘辅助人员公告 2026-09-09](http://www.yuexiu.gov.cn/zwgk/rsxx/gkzkzp/zpgg/content/post_10996499.html) — 广州市越秀区 / 编外 / 2026-09-09
-- [滨江街关于公开招聘雇员笔试安排](https://www.haizhu.gov.cn/hzdt/tzgg/zpxx/content/post_10996109.html) — 广州市海珠区 / 编外 / 2026-09-08
-- [公益性岗位拟聘用人员公示](http://www.thnet.gov.cn/thdt/tzgg/rsxx/rszp/content/post_10993513.html) — 广州市天河区 / 待核实 / 2026-09-09
-- [天河区黄村街道综合事务中心公开招聘编外环卫保洁工作人员的公告](http://www.thnet.gov.cn/thdt/tzgg/rsxx/rszp/content/post_10996127.html) — 广州市天河区 / 编外 / 2026-09-09
+- [元岗街道公开招聘公益性岗位工作人员公告](http://www.thnet.gov.cn/thdt/tzgg/rsxx/rszp/content/post_10997301.html) — 广州市天河区 / 待核实 / 2026-09-09
+- [联和街道2026年政府聘员拟聘用人员名单公示](http://www.hp.gov.cn/xwzx/tzgg/zpgg/content/post_10997995.html) — 广州市黄埔区 / 待核实 / 2026-09-09
+- [黄埔区鱼珠街道公开招聘政府聘员笔试成绩公告](http://www.hp.gov.cn/xwzx/tzgg/zpgg/content/post_10997147.html) — 广州市黄埔区 / 待核实 / 2026-09-09
+- [穗东街道夏园社区招聘工作人员公告](http://www.hp.gov.cn/xwzx/tzgg/zpgg/content/post_10997060.html) — 广州市黄埔区 / 待核实 / 2026-09-09
+- [2026年广州市黄埔区教育局公开招聘雇员制教职员李春梅等363名同志拟录用公示(第一批)](http://www.hp.gov.cn/xwzx/tzgg/zpgg/content/post_10997036.html) — 广州市黄埔区 / 编外 / 2026-09-09
+- [南岗街道关于公开招聘政府聘员拟聘用人员的公示](http://www.hp.gov.cn/xwzx/tzgg/zpgg/content/post_10996947.html) — 广州市黄埔区 / 待核实 / 2026-09-09
+- [中山市小榄镇人民政府所属事业单位2026年公开招聘事业单位人员拟聘用人员名单公示](http://hrss.zs.gov.cn/xxgk/rsxx/sydwgkzp/content/post_2649013.html) — 中山市 / 事业编 / 2026-09-09
 
 ## 失败来源
+- 广东人才网：<urlopen error timed out>
 - 深圳市人社局公职人员招考：<urlopen error [SSL: BAD_ECPOINT] bad ecpoint (_ssl.c:1010)>
 - 佛山市人社局机关事业单位招录：<urlopen error [Errno 101] Network is unreachable>
 - 韶关市人社局事业单位人事：<urlopen error [Errno -5] No address associated with hostname>
