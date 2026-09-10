@@ -1,25 +1,21 @@
 # 广东公考事业编每日监控报告
 
-- 核验时间：2026-09-09T22:31:33+08:00（Asia/Shanghai）
+- 核验时间：2026-09-10T12:34:52+08:00（Asia/Shanghai）
 - 自动检查：成功 44，失败 8，人工入口 3
 - A 级来源成功率：16/16
-- 本次新增：7
+- 本次新增：3
 
 ## 新发现
-- [元岗街道公开招聘公益性岗位工作人员公告](http://www.thnet.gov.cn/thdt/tzgg/rsxx/rszp/content/post_10997301.html) — 广州市天河区 / 待核实 / 2026-09-09
-- [联和街道2026年政府聘员拟聘用人员名单公示](http://www.hp.gov.cn/xwzx/tzgg/zpgg/content/post_10997995.html) — 广州市黄埔区 / 待核实 / 2026-09-09
-- [黄埔区鱼珠街道公开招聘政府聘员笔试成绩公告](http://www.hp.gov.cn/xwzx/tzgg/zpgg/content/post_10997147.html) — 广州市黄埔区 / 待核实 / 2026-09-09
-- [穗东街道夏园社区招聘工作人员公告](http://www.hp.gov.cn/xwzx/tzgg/zpgg/content/post_10997060.html) — 广州市黄埔区 / 待核实 / 2026-09-09
-- [2026年广州市黄埔区教育局公开招聘雇员制教职员李春梅等363名同志拟录用公示(第一批)](http://www.hp.gov.cn/xwzx/tzgg/zpgg/content/post_10997036.html) — 广州市黄埔区 / 编外 / 2026-09-09
-- [南岗街道关于公开招聘政府聘员拟聘用人员的公示](http://www.hp.gov.cn/xwzx/tzgg/zpgg/content/post_10996947.html) — 广州市黄埔区 / 待核实 / 2026-09-09
-- [中山市小榄镇人民政府所属事业单位2026年公开招聘事业单位人员拟聘用人员名单公示](http://hrss.zs.gov.cn/xxgk/rsxx/sydwgkzp/content/post_2649013.html) — 中山市 / 事业编 / 2026-09-09
+- [广州市卫生健康委员会直属事业单位2026年第一次引进急需专业人才广州市胸科医院 拟聘用人员公示](http://wjw.gz.gov.cn/xxgk/tzgg/content/post_10998838.html) — 广州市 / 事业编 / 2026-09-10
+- [广州市黄埔区教育局2026年春季公开招聘事业编制教师李凌崤等8名同志拟聘公示](http://www.hp.gov.cn/xwzx/tzgg/zpgg/content/post_10998414.html) — 广州市黄埔区 / 事业编 / 2026-09-10
+- [关于广州市黄埔区妇幼保健院2026年编外聘用人员招聘面试工作安排的公告](http://www.hp.gov.cn/xwzx/tzgg/zpgg/content/post_10998258.html) — 广州市黄埔区 / 编外 / 2026-09-10
 
 ## 失败来源
 - 广东人才网：<urlopen error timed out>
 - 深圳市人社局公职人员招考：<urlopen error [SSL: BAD_ECPOINT] bad ecpoint (_ssl.c:1010)>
 - 佛山市人社局机关事业单位招录：<urlopen error [Errno 101] Network is unreachable>
 - 韶关市人社局事业单位人事：<urlopen error [Errno -5] No address associated with hostname>
-- 惠州市人社局通知公告：<urlopen error [Errno 104] Connection reset by peer>
+- 惠州市人社局通知公告：<urlopen error [Errno 101] Network is unreachable>
 - 东莞市人社局公开招聘：<urlopen error [Errno -3] Temporary failure in name resolution>
 - 肇庆市人社局政府信息公开平台：<urlopen error [Errno 101] Network is unreachable>
 - 潮州市人社局通知公告：<urlopen error [Errno 101] Network is unreachable>
