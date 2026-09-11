@@ -1,25 +1,24 @@
 # 广东公考事业编每日监控报告
 
-- 核验时间：2026-09-10T22:23:14+08:00（Asia/Shanghai）
-- 自动检查：成功 44，失败 8，人工入口 3
+- 核验时间：2026-09-11T12:32:00+08:00（Asia/Shanghai）
+- 自动检查：成功 42，失败 10，人工入口 3
 - A 级来源成功率：15/16
-- 本次新增：6
+- 本次新增：3
 
 ## 新发现
-- [广东粤垦农业小额贷款股份有限公司拟聘人员公示](https://www.gdrc.com/index.php?m=&c=news&a=news_show&id=841) — 广东省 / 国企 / 日期待核验
-- [广州市卫生健康委员会直属事业单位2026年第一次引进急需专业人才广州市胸科医院拟聘用人员公示](http://wjw.gz.gov.cn/xxgk/tzgg/content/post_10998838.html) — 广州市 / 事业编 / 2019-10-18
-- [越秀区机关事务管理局关于公开招聘辅助人员的公告 2026-09-10](http://www.yuexiu.gov.cn/zwgk/rsxx/gkzkzp/zpgg/content/post_10999967.html) — 广州市越秀区 / 编外 / 2026-09-10
-- [赤岗街道公开招聘雇员拟录用人员公示](https://www.haizhu.gov.cn/hzdt/tzgg/zpxx/content/post_10999997.html) — 广州市海珠区 / 编外 / 2026-09-10
-- [广州开发区 广州市黄埔区2026年事业单位校园招聘公告（上海、南京、杭州设点）](http://www.hp.gov.cn/xwzx/tzgg/zpgg/content/post_10999114.html) — 广州市黄埔区 / 事业编 / 2026-09-10
-- [中山市横栏镇人民政府所属事业单位2026年公开招聘事业单位人员拟聘用人员名单公示](http://hrss.zs.gov.cn/xxgk/rsxx/sydwgkzp/content/post_2649446.html) — 中山市 / 事业编 / 2026-09-10
+- [广州市社会主义学院（广州中华文化学院）2026年第一次公开招聘专业技术人员拟聘用人员公示通告](http://www.gzsy.org.cn/tzgg/39120.jhtml) — 广州市 / 待核实 / 2019-10-18
+- [广州市体育局直属事业单位2026年第一次引进紧缺专业人才拟聘人员公示](https://tyj.gz.gov.cn/tzgg/zkly/content/post_10999952.html) — 广州市 / 事业编 / 2026-09-11
+- [鱼珠街茅岗社区公开招聘专职律师公告](http://www.hp.gov.cn/xwzx/tzgg/zpgg/content/post_11000862.html) — 广州市黄埔区 / 待核实 / 2026-09-11
 
 ## 失败来源
 - 中央机关及其直属机构2026年度考试录用公务员专题：<urlopen error timed out>
+- 广东人才网：<urlopen error timed out>
 - 深圳市人社局公职人员招考：<urlopen error [SSL: BAD_ECPOINT] bad ecpoint (_ssl.c:1010)>
 - 佛山市人社局机关事业单位招录：<urlopen error [Errno 101] Network is unreachable>
 - 韶关市人社局事业单位人事：<urlopen error [Errno -5] No address associated with hostname>
 - 惠州市人社局通知公告：<urlopen error [Errno 104] Connection reset by peer>
 - 东莞市人社局公开招聘：<urlopen error [Errno -3] Temporary failure in name resolution>
+- 湛江市人社局通知公告：<urlopen error [Errno 104] Connection reset by peer>
 - 肇庆市人社局政府信息公开平台：<urlopen error [Errno 101] Network is unreachable>
 - 潮州市人社局通知公告：<urlopen error [Errno 101] Network is unreachable>
 
