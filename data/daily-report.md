@@ -1,7 +1,7 @@
 # 广东公考事业编每日监控报告
 
-- 核验时间：2026-09-13T12:40:43+08:00（Asia/Shanghai）
-- 自动检查：成功 42，失败 10，人工入口 3
+- 核验时间：2026-09-13T22:19:31+08:00（Asia/Shanghai）
+- 自动检查：成功 43，失败 9，人工入口 3
 - A 级来源成功率：15/16
 - 本次新增：0
 
@@ -17,7 +17,6 @@
 - 韶关市人社局事业单位人事：<urlopen error [Errno -5] No address associated with hostname>
 - 惠州市人社局通知公告：<urlopen error [Errno 104] Connection reset by peer>
 - 东莞市人社局公开招聘：<urlopen error [Errno -3] Temporary failure in name resolution>
-- 湛江市人社局通知公告：<urlopen error [Errno 104] Connection reset by peer>
 - 肇庆市人社局政府信息公开平台：<urlopen error [Errno 101] Network is unreachable>
 - 潮州市人社局通知公告：<urlopen error [Errno 101] Network is unreachable>
 
