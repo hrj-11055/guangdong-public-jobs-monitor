@@ -1,22 +1,26 @@
 # 广东公考事业编每日监控报告
 
-- 核验时间：2026-09-14T12:49:11+08:00（Asia/Shanghai）
-- 自动检查：成功 43，失败 9，人工入口 3
-- A 级来源成功率：14/16
-- 本次新增：0
+- 核验时间：2026-09-15T00:20:52+08:00（Asia/Shanghai）
+- 自动检查：成功 42，失败 10，人工入口 3
+- A 级来源成功率：15/16
+- 本次新增：5
 
 ## 新发现
-
-本次未发现新的候选公告链接。此结论只表示成功访问来源的页面未出现新链接；失败来源需人工补查。
+- [2025年广州市荔湾区教育局公开招聘事业编制人员拟聘用人员公示（第四批）](http://www.lw.gov.cn/ywdt/lwzp/content/post_11004230.html) — 广州市荔湾区 / 事业编 / 2026-09-14
+- [2025年广州市荔湾区教育局公开招聘事业编制教师拟聘用人员公示（第四批）](http://www.lw.gov.cn/ywdt/lwzp/content/post_11004229.html) — 广州市荔湾区 / 事业编 / 2026-09-14
+- [2025年广州市荔湾区卫生健康系统事业单位公开招聘第七批拟聘用人员公示](http://www.lw.gov.cn/ywdt/lwzp/content/post_11003896.html) — 广州市荔湾区 / 事业编 / 2026-09-14
+- [2026年广州市黄埔区黄埔街下沙股份经济联合社公开招聘社区工作人员笔试（机试）成绩及入围面试人员名单公告](http://www.hp.gov.cn/xwzx/tzgg/zpgg/content/post_11003778.html) — 广州市黄埔区 / 待核实 / 2026-09-14
+- [广州市黄埔区龙湖街道综合发展中心公开招聘环卫工人公告](http://www.hp.gov.cn/xwzx/tzgg/zpgg/content/post_11003111.html) — 广州市黄埔区 / 待核实 / 2026-09-14
 
 ## 失败来源
 - 中央机关及其直属机构2026年度考试录用公务员专题：<urlopen error timed out>
-- 中国公共招聘网事业单位公开招聘：<urlopen error [Errno 101] Network is unreachable>
+- 广东人才网：<urlopen error timed out>
 - 深圳市人社局公职人员招考：<urlopen error [SSL: BAD_ECPOINT] bad ecpoint (_ssl.c:1010)>
 - 佛山市人社局机关事业单位招录：<urlopen error [Errno 101] Network is unreachable>
 - 韶关市人社局事业单位人事：<urlopen error [Errno -5] No address associated with hostname>
-- 惠州市人社局通知公告：<urlopen error [Errno 104] Connection reset by peer>
+- 惠州市人社局通知公告：<urlopen error [Errno 101] Network is unreachable>
 - 东莞市人社局公开招聘：<urlopen error [Errno -3] Temporary failure in name resolution>
+- 中山市人社局事业单位公开招聘：<urlopen error [Errno 101] Network is unreachable>
 - 肇庆市人社局政府信息公开平台：<urlopen error [Errno 101] Network is unreachable>
 - 潮州市人社局通知公告：<urlopen error [Errno 101] Network is unreachable>
 
