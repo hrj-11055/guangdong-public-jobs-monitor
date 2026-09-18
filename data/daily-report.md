@@ -1,17 +1,18 @@
 # 广东公考事业编每日监控报告
 
-- 核验时间：2026-09-17T22:57:37+08:00（Asia/Shanghai）
-- 自动检查：成功 44，失败 8，人工入口 3
+- 核验时间：2026-09-18T12:36:52+08:00（Asia/Shanghai）
+- 自动检查：成功 43，失败 9，人工入口 3
 - A 级来源成功率：15/16
 - 本次新增：3
 
 ## 新发现
-- [广州市公安局南沙分局2026年度公开招聘警务辅助人员拟录用人员公示](http://www.gzns.gov.cn/zwgk/zdlyxxgk/jycy/zpxx/content/post_11008600.html) — 广州市南沙区 / 编外 / 2026-09-17
-- [广州市增城区人民法院2026年公开招聘政府聘员公告](http://www.zc.gov.cn/gk/rsgz/dwzp/content/post_11009146.html) — 广州市增城区 / 待核实 / 2026-09-17
-- [汕头市卫生健康局属下汕头市中心医院2025年下半年公开招聘工作人员拟聘用人员（第二批）公示](https://www.shantou.gov.cn/stsrlzyhshbzj/ztzl/sydwrsgl/zpxx/content/post_2568912.html) — 汕头市 / 待核实 / 2026-09-17
+- [广东实验中学湛江学校2026年公开招聘（第二批）工作人员拟聘用人员（第二批）公示](https://www.zhanjiang.gov.cn/zjsfw/bmdh/rsj/zwgk/tzgg/content/post_2224073.html) — 湛江市 / 待核实 / 2026-09-18
+- [广东实验中学湛江学校2026年公开招聘工作人员拟聘用人员（第三批）公示](https://www.zhanjiang.gov.cn/zjsfw/bmdh/rsj/zwgk/tzgg/content/post_2224059.html) — 湛江市 / 待核实 / 2026-09-18
+- [广东实验中学湛江学校2025年秋季公开招聘工作人员拟聘用人员（第四批）公示](https://www.zhanjiang.gov.cn/zjsfw/bmdh/rsj/zwgk/tzgg/content/post_2224051.html) — 湛江市 / 待核实 / 2026-09-18
 
 ## 失败来源
 - 中央机关及其直属机构2026年度考试录用公务员专题：<urlopen error timed out>
+- 广东人才网：<urlopen error timed out>
 - 深圳市人社局公职人员招考：<urlopen error [SSL: BAD_ECPOINT] bad ecpoint (_ssl.c:1010)>
 - 佛山市人社局机关事业单位招录：<urlopen error [Errno 101] Network is unreachable>
 - 韶关市人社局事业单位人事：<urlopen error [Errno -5] No address associated with hostname>
