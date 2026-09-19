@@ -1,15 +1,12 @@
 # 广东公考事业编每日监控报告
 
-- 核验时间：2026-09-18T22:27:51+08:00（Asia/Shanghai）
+- 核验时间：2026-09-19T12:32:21+08:00（Asia/Shanghai）
 - 自动检查：成功 43，失败 9，人工入口 3
 - A 级来源成功率：15/16
-- 本次新增：4
+- 本次新增：1
 
 ## 新发现
-- [黄埔区红山街道公开招聘政府聘员公告](http://www.hp.gov.cn/xwzx/tzgg/zpgg/content/post_11011242.html) — 广州市黄埔区 / 待核实 / 2026-09-18
-- [广州市黄埔区妇幼保健院2026年编外聘用人员招聘考试成绩公示及体检公告](http://www.hp.gov.cn/xwzx/tzgg/zpgg/content/post_11011086.html) — 广州市黄埔区 / 编外 / 2026-09-18
-- [关于广州市南沙区事业单位2026年第二批公开招聘高校毕业生面试及体检有关安排的通知](http://www.gzns.gov.cn/zwgk/zdlyxxgk/jycy/zpxx/content/post_11010335.html) — 广州市南沙区 / 事业编 / 2026-09-18
-- [2026年广州市增城区仙村镇人民政府公开招聘聘员递补拟聘用人员公示](http://www.zc.gov.cn/gk/rsgz/dwzp/content/post_11010884.html) — 广州市增城区 / 待核实 / 2026-09-18
+- [荔湾区中南街道关于公示2026年社区专职工作人员公开招聘拟聘用人员的公告](http://www.lw.gov.cn/ywdt/lwzp/content/post_11011504.html) — 广州市荔湾区 / 编外 / 2026-09-19
 
 ## 失败来源
 - 中央机关及其直属机构2026年度考试录用公务员专题：<urlopen error timed out>
@@ -17,8 +14,8 @@
 - 深圳市人社局公职人员招考：<urlopen error [SSL: BAD_ECPOINT] bad ecpoint (_ssl.c:1010)>
 - 佛山市人社局机关事业单位招录：<urlopen error [Errno 101] Network is unreachable>
 - 韶关市人社局事业单位人事：<urlopen error [Errno -5] No address associated with hostname>
-- 惠州市人社局通知公告：<urlopen error [Errno 101] Network is unreachable>
-- 东莞市人社局公开招聘：<urlopen error [Errno 101] Network is unreachable>
+- 惠州市人社局通知公告：<urlopen error [Errno 104] Connection reset by peer>
+- 东莞市人社局公开招聘：<urlopen error [Errno -3] Temporary failure in name resolution>
 - 肇庆市人社局政府信息公开平台：<urlopen error [Errno 101] Network is unreachable>
 - 潮州市人社局通知公告：<urlopen error [Errno 101] Network is unreachable>
 
