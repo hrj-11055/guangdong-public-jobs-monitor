@@ -1,13 +1,14 @@
 # 广东公考事业编每日监控报告
 
-- 核验时间：2026-09-21T12:49:17+08:00（Asia/Shanghai）
-- 自动检查：成功 43，失败 9，人工入口 3
+- 核验时间：2026-09-22T00:27:13+08:00（Asia/Shanghai）
+- 自动检查：成功 42，失败 10，人工入口 3
 - A 级来源成功率：15/16
-- 本次新增：2
+- 本次新增：3
 
 ## 新发现
-- [海珠区政务服务管理局公开招聘政府雇员拟聘用人员名单公告](https://www.haizhu.gov.cn/hzdt/tzgg/zpxx/content/post_11013383.html) — 广州市海珠区 / 编外 / 2026-09-21
-- [广州市黄埔区水务设施管理所公开招聘中级雇员考试成绩及进入体检名单公告](http://www.hp.gov.cn/xwzx/tzgg/zpgg/content/post_11013566.html) — 广州市黄埔区 / 编外 / 2026-09-21
+- [市场监管总局直属事业单位2026年度第二批公开招聘公告](https://www.mohrss.gov.cn/SYrlzyhshbzb/fwyd/SYkaoshizhaopin/zyhgjjgsydwgkzp/zpgg/202609/t20260920_584204.html) — 全国/广东 / 事业编 / 2026-09-21
+- [越秀区光塔街公开招聘城管协管员公告 2026-09-21](http://www.yuexiu.gov.cn/zwgk/rsxx/gkzkzp/zpgg/content/post_11014243.html) — 广州市越秀区 / 待核实 / 2026-09-21
+- [汕头市卫生健康局属下汕头市皮肤性病防治院2025年下半年公开招聘工作人员拟聘用人员（第一批）公示](https://www.shantou.gov.cn/stsrlzyhshbzj/ztzl/sydwrsgl/zpxx/content/post_2570536.html) — 汕头市 / 待核实 / 2026-09-21
 
 ## 失败来源
 - 中央机关及其直属机构2026年度考试录用公务员专题：<urlopen error timed out>
@@ -17,6 +18,7 @@
 - 韶关市人社局事业单位人事：<urlopen error [Errno -5] No address associated with hostname>
 - 惠州市人社局通知公告：<urlopen error [Errno 104] Connection reset by peer>
 - 东莞市人社局公开招聘：<urlopen error [Errno -3] Temporary failure in name resolution>
+- 中山市人社局事业单位公开招聘：<urlopen error [Errno 101] Network is unreachable>
 - 肇庆市人社局政府信息公开平台：<urlopen error [Errno 101] Network is unreachable>
 - 潮州市人社局通知公告：<urlopen error [Errno 101] Network is unreachable>
 
