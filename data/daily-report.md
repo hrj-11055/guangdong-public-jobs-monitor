@@ -1,13 +1,18 @@
 # 广东公考事业编每日监控报告
 
-- 核验时间：2026-09-22T12:48:14+08:00（Asia/Shanghai）
+- 核验时间：2026-09-22T22:48:16+08:00（Asia/Shanghai）
 - 自动检查：成功 43，失败 9，人工入口 3
 - A 级来源成功率：15/16
-- 本次新增：2
+- 本次新增：7
 
 ## 新发现
-- [广州开发区建设工程质量安全监督站2026年公开招聘政府初级雇员面试成绩、综合成绩及进入体检人员名单公告](http://www.hp.gov.cn/xwzx/tzgg/zpgg/content/post_11015869.html) — 广州市黄埔区 / 编外 / 2026-09-22
-- [河源市人大代表活动中心2026年公开招聘工作人员拟聘用人员公示](http://www.heyuan.gov.cn/bmjy/hysrlzyhshbzj/gggs/content/post_718023.html) — 河源市 / 待核实 / 2026-09-22
+- [广州市体育局直属事业单位广州体育职业技术学院2026年第一次公开招聘拟聘用人员公示](https://tyj.gz.gov.cn/tzgg/content/post_11015602.html) — 广州市 / 事业编 / 2019-10-18
+- [昌华街道消毒站关于公开招聘消毒员综合成绩及进入体检名单的公示](http://www.lw.gov.cn/ywdt/lwzp/content/post_11017092.html) — 广州市荔湾区 / 待核实 / 2026-09-22
+- [广州市天河区2026年公开招聘社区专职工作人员拟聘用人员公示（第一批）](http://www.thnet.gov.cn/thdt/tzgg/rsxx/rszp/content/post_11015881.html) — 广州市天河区 / 编外 / 2026-09-22
+- [广州市天河区员村街道综合事务中心公开招聘环卫工人的公告](http://www.thnet.gov.cn/thdt/tzgg/rsxx/rszp/content/post_11016768.html) — 广州市天河区 / 待核实 / 2026-09-22
+- [天河区前进街道综合事务中心公开招聘环卫一线工作人员的公告](http://www.thnet.gov.cn/thdt/tzgg/rsxx/rszp/content/post_11016302.html) — 广州市天河区 / 待核实 / 2026-09-22
+- [2026年广州市南沙区人民政府珠江街道办事处公开招聘编外工作人员拟聘用人员公示（第二批）](http://www.gzns.gov.cn/zwgk/zdlyxxgk/jycy/zpxx/content/post_11016855.html) — 广州市南沙区 / 编外 / 2026-09-22
+- [2025年秋季湛江第一中学公开招聘教师拟聘用人员（第二批）公示](https://www.zhanjiang.gov.cn/zjsfw/bmdh/rsj/zwgk/tzgg/content/post_2227347.html) — 湛江市 / 待核实 / 2026-09-22
 
 ## 失败来源
 - 中央机关及其直属机构2026年度考试录用公务员专题：<urlopen error timed out>
@@ -15,7 +20,7 @@
 - 深圳市人社局公职人员招考：<urlopen error [SSL: BAD_ECPOINT] bad ecpoint (_ssl.c:1010)>
 - 佛山市人社局机关事业单位招录：<urlopen error [Errno 101] Network is unreachable>
 - 韶关市人社局事业单位人事：<urlopen error [Errno -5] No address associated with hostname>
-- 惠州市人社局通知公告：<urlopen error [Errno 104] Connection reset by peer>
+- 惠州市人社局通知公告：<urlopen error [Errno 101] Network is unreachable>
 - 东莞市人社局公开招聘：<urlopen error [Errno -3] Temporary failure in name resolution>
 - 肇庆市人社局政府信息公开平台：<urlopen error [Errno 101] Network is unreachable>
 - 潮州市人社局通知公告：<urlopen error [Errno 101] Network is unreachable>
