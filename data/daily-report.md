@@ -1,17 +1,15 @@
 # 广东公考事业编每日监控报告
 
-- 核验时间：2026-09-24T12:41:49+08:00（Asia/Shanghai）
+- 核验时间：2026-09-24T23:01:03+08:00（Asia/Shanghai）
 - 自动检查：成功 43，失败 9，人工入口 3
 - A 级来源成功率：15/16
-- 本次新增：6
+- 本次新增：4
 
 ## 新发现
-- [广州市教育局直属事业单位广州市第六中学2026年第一次公开招聘教师第三批拟聘用人员公示](https://jyj.gz.gov.cn/gk/zfxxgkml/qt/gs/rsgz/content/post_11019945.html) — 广州市 / 事业编 / 2026-09-24
-- [2025年下半年广州市教育系统校园招聘“优才计划”第五批拟聘用人员公示](https://jyj.gz.gov.cn/gk/zfxxgkml/qt/gs/rsgz/content/post_11019940.html) — 广州市 / 待核实 / 2026-09-24
-- [广州市教育局直属事业单位清华附中湾区学校2026年第一次公开招聘教师第三批拟聘用人员公示](https://jyj.gz.gov.cn/gk/zfxxgkml/qt/gs/rsgz/content/post_11019843.html) — 广州市 / 事业编 / 2026-09-24
-- [广州市教育局直属事业单位2026年第一次公开招聘教师第七批拟聘用人员公示](https://jyj.gz.gov.cn/gk/zfxxgkml/qt/gs/rsgz/content/post_11019839.html) — 广州市 / 事业编 / 2026-09-24
-- [广州市教育局直属事业单位广州市第六中学2026年第二次公开招聘教职员第三批拟聘用人员公示](https://jyj.gz.gov.cn/gk/zfxxgkml/qt/gs/rsgz/content/post_11019836.html) — 广州市 / 事业编 / 2026-09-24
-- [广州市教育局直属事业单位广州市艺术中学2026年第一次公开招聘教师第二批拟聘用人员公示](https://jyj.gz.gov.cn/gk/zfxxgkml/qt/gs/rsgz/content/post_11019826.html) — 广州市 / 事业编 / 2026-09-24
+- [中国地震局2027年度事业单位公开招聘公告](https://www.mohrss.gov.cn/SYrlzyhshbzb/fwyd/SYkaoshizhaopin/zyhgjjgsydwgkzp/zpgg/202609/t20260923_584466.html) — 全国/广东 / 事业编 / 2026-09-24
+- [司法部机关服务中心面向社会公开招聘工作人员的公告](https://www.mohrss.gov.cn/SYrlzyhshbzb/fwyd/SYkaoshizhaopin/zyhgjjgsydwgkzp/zpgg/202609/t20260923_584467.html) — 全国/广东 / 待核实 / 2026-09-24
+- [昌华街道关于公开招聘消毒员拟录用人员的公示](http://www.lw.gov.cn/ywdt/lwzp/content/post_11022148.html) — 广州市荔湾区 / 待核实 / 2026-09-24
+- [广州市白云区人民政府京溪街道办事处2026年第二次公开招聘合同制聘员公告](https://www.by.gov.cn/zwgk/zdlyxxgkzl/jycyxxgkzl/zpxx/qnzpxx/content/post_11020517.html) — 广州市白云区 / 编外 / 2026-09-24
 
 ## 失败来源
 - 中央机关及其直属机构2026年度考试录用公务员专题：<urlopen error timed out>
