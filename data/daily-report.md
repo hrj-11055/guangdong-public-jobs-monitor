@@ -1,16 +1,17 @@
 # 广东公考事业编每日监控报告
 
-- 核验时间：2026-09-23T22:58:42+08:00（Asia/Shanghai）
+- 核验时间：2026-09-24T12:41:49+08:00（Asia/Shanghai）
 - 自动检查：成功 43，失败 9，人工入口 3
 - A 级来源成功率：15/16
-- 本次新增：5
+- 本次新增：6
 
 ## 新发现
-- [广州市科学技术局关于直属事业单位2026年引进急需人才综合成绩与入围体检人员名单的公告](http://kjj.gz.gov.cn/xxgk/zwdt/tztg/wjgg/content/post_11017397.html) — 广州市 / 事业编 / 2019-10-18
-- [广州市越秀区光塔街2026年公开招聘辅助人员公告 2026-09-23](http://www.yuexiu.gov.cn/zwgk/rsxx/gkzkzp/zpgg/content/post_11018872.html) — 广州市越秀区 / 编外 / 2026-09-23
-- [关于黄埔区萝岗街公开招聘街道治安联防队员的公告](http://www.hp.gov.cn/xwzx/tzgg/zpgg/content/post_11019035.html) — 广州市黄埔区 / 待核实 / 2026-09-23
-- [中山市港口镇人民政府所属事业单位2026年公开招聘事业单位人员拟聘用人员名单公示](http://hrss.zs.gov.cn/xxgk/rsxx/sydwgkzp/content/post_2653426.html) — 中山市 / 事业编 / 2026-09-23
-- [广东省事业单位2026年集中公开招聘高校毕业生茂名市招聘岗位（第三批）拟聘用人员名单公示 2026-09-23](http://mmrs.maoming.gov.cn/xwzx/tzgg/content/post_1649914.html) — 茂名市 / 事业编 / 2026-09-23
+- [广州市教育局直属事业单位广州市第六中学2026年第一次公开招聘教师第三批拟聘用人员公示](https://jyj.gz.gov.cn/gk/zfxxgkml/qt/gs/rsgz/content/post_11019945.html) — 广州市 / 事业编 / 2026-09-24
+- [2025年下半年广州市教育系统校园招聘“优才计划”第五批拟聘用人员公示](https://jyj.gz.gov.cn/gk/zfxxgkml/qt/gs/rsgz/content/post_11019940.html) — 广州市 / 待核实 / 2026-09-24
+- [广州市教育局直属事业单位清华附中湾区学校2026年第一次公开招聘教师第三批拟聘用人员公示](https://jyj.gz.gov.cn/gk/zfxxgkml/qt/gs/rsgz/content/post_11019843.html) — 广州市 / 事业编 / 2026-09-24
+- [广州市教育局直属事业单位2026年第一次公开招聘教师第七批拟聘用人员公示](https://jyj.gz.gov.cn/gk/zfxxgkml/qt/gs/rsgz/content/post_11019839.html) — 广州市 / 事业编 / 2026-09-24
+- [广州市教育局直属事业单位广州市第六中学2026年第二次公开招聘教职员第三批拟聘用人员公示](https://jyj.gz.gov.cn/gk/zfxxgkml/qt/gs/rsgz/content/post_11019836.html) — 广州市 / 事业编 / 2026-09-24
+- [广州市教育局直属事业单位广州市艺术中学2026年第一次公开招聘教师第二批拟聘用人员公示](https://jyj.gz.gov.cn/gk/zfxxgkml/qt/gs/rsgz/content/post_11019826.html) — 广州市 / 事业编 / 2026-09-24
 
 ## 失败来源
 - 中央机关及其直属机构2026年度考试录用公务员专题：<urlopen error timed out>
