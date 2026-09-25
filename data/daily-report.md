@@ -1,15 +1,13 @@
 # 广东公考事业编每日监控报告
 
-- 核验时间：2026-09-24T23:01:03+08:00（Asia/Shanghai）
-- 自动检查：成功 43，失败 9，人工入口 3
+- 核验时间：2026-09-25T12:51:05+08:00（Asia/Shanghai）
+- 自动检查：成功 42，失败 10，人工入口 3
 - A 级来源成功率：15/16
-- 本次新增：4
+- 本次新增：0
 
 ## 新发现
-- [中国地震局2027年度事业单位公开招聘公告](https://www.mohrss.gov.cn/SYrlzyhshbzb/fwyd/SYkaoshizhaopin/zyhgjjgsydwgkzp/zpgg/202609/t20260923_584466.html) — 全国/广东 / 事业编 / 2026-09-24
-- [司法部机关服务中心面向社会公开招聘工作人员的公告](https://www.mohrss.gov.cn/SYrlzyhshbzb/fwyd/SYkaoshizhaopin/zyhgjjgsydwgkzp/zpgg/202609/t20260923_584467.html) — 全国/广东 / 待核实 / 2026-09-24
-- [昌华街道关于公开招聘消毒员拟录用人员的公示](http://www.lw.gov.cn/ywdt/lwzp/content/post_11022148.html) — 广州市荔湾区 / 待核实 / 2026-09-24
-- [广州市白云区人民政府京溪街道办事处2026年第二次公开招聘合同制聘员公告](https://www.by.gov.cn/zwgk/zdlyxxgkzl/jycyxxgkzl/zpxx/qnzpxx/content/post_11020517.html) — 广州市白云区 / 编外 / 2026-09-24
+
+本次未发现新的候选公告链接。此结论只表示成功访问来源的页面未出现新链接；失败来源需人工补查。
 
 ## 失败来源
 - 中央机关及其直属机构2026年度考试录用公务员专题：<urlopen error timed out>
@@ -19,6 +17,7 @@
 - 韶关市人社局事业单位人事：<urlopen error [Errno -5] No address associated with hostname>
 - 惠州市人社局通知公告：<urlopen error [Errno 104] Connection reset by peer>
 - 东莞市人社局公开招聘：<urlopen error [Errno -3] Temporary failure in name resolution>
+- 江门市人社局事业单位公开招聘：<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)>
 - 肇庆市人社局政府信息公开平台：<urlopen error [Errno 101] Network is unreachable>
 - 潮州市人社局通知公告：<urlopen error [Errno 101] Network is unreachable>
 
