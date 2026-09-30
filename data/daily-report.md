@@ -1,16 +1,20 @@
 # 广东公考事业编每日监控报告
 
-- 核验时间：2026-09-30T00:29:03+08:00（Asia/Shanghai）
-- 自动检查：成功 42，失败 10，人工入口 3
+- 核验时间：2026-09-30T13:26:25+08:00（Asia/Shanghai）
+- 自动检查：成功 43，失败 9，人工入口 3
 - A 级来源成功率：15/16
-- 本次新增：5
+- 本次新增：9
 
 ## 新发现
-- [中共广州市委办公厅2026年公开选调公务员拟选调人选公示通告](https://rsj.gz.gov.cn/zwdt/tzgg/content/post_11026078.html) — 广州市 / 公务员 / 2026-09-11
-- [广州市白云区人民政府京溪街道办事处2026年第一次公开招聘合同制聘员第二次补录公告](https://www.by.gov.cn/zwgk/zdlyxxgkzl/jycyxxgkzl/zpxx/qnzpxx/content/post_11026305.html) — 广州市白云区 / 编外 / 2026-09-24
-- [广州开发区建设工程质量安全监督站公开招聘初级雇员拟聘人员公示](http://www.hp.gov.cn/xwzx/tzgg/zpgg/content/post_11025668.html) — 广州市黄埔区 / 编外 / 2026-09-29
-- [【区人社局】“百万英才汇南粤”-2026年广州市从化区事业单位赴北京公开招聘高校毕业生拟聘...](http://www.conghua.gov.cn/zwfw/ztfw/hycyqsygkzp/content/post_11026157.html) — 广州市从化区 / 事业编 / 2026-09-29
-- [珠海高新区2026年下半年公开招聘公办学校事业编制教师公告 2026-09-29](https://zhrsj.zhuhai.gov.cn/zw/tzgg/gzzk/content/post_3946480.html) — 珠海市 / 事业编 / 2026-09-29
+- [广州市教育局直属事业单位广州市第六中学2026年第一次公开招聘教师第三批拟聘用人员公示](https://jyj.gz.gov.cn/yw/wsgs/content/post_11019946.html) — 广州市 / 事业编 / 2019-10-18
+- [2025年下半年广州市教育系统校园招聘“优才计划”第五批拟聘用人员公示](https://jyj.gz.gov.cn/yw/wsgs/content/post_11019941.html) — 广州市 / 待核实 / 2026-09-29
+- [广州市教育局直属事业单位清华附中湾区学校2026年第一次公开招聘教师第三批拟聘用人员公示](https://jyj.gz.gov.cn/yw/wsgs/content/post_11019844.html) — 广州市 / 事业编 / 2026-09-29
+- [广州市教育局直属事业单位2026年第一次公开招聘教师第七批拟聘用人员公示](https://jyj.gz.gov.cn/yw/wsgs/content/post_11019840.html) — 广州市 / 事业编 / 2026-09-29
+- [广州市教育局直属事业单位广州市第六中学2026年第二次公开招聘教职员第三批拟聘用人员公示](https://jyj.gz.gov.cn/yw/wsgs/content/post_11019837.html) — 广州市 / 事业编 / 2026-09-29
+- [广州市教育局直属事业单位广州市艺术中学2026年第一次公开招聘教师第二批拟聘用人员公示](https://jyj.gz.gov.cn/yw/wsgs/content/post_11019827.html) — 广州市 / 事业编 / 2026-09-29
+- [黄埔区大沙街道公开招聘编外聘用人员笔试成绩公告](http://www.hp.gov.cn/xwzx/tzgg/zpgg/content/post_11027560.html) — 广州市黄埔区 / 编外 / 2026-09-30
+- [河源市2026年事业单位（市农业农村局所属事业单位）公开招聘拟聘用人员名单公示](http://www.heyuan.gov.cn/bmjy/hysrlzyhshbzj/gggs/content/post_719276.html) — 河源市 / 事业编 / 2026-09-30
+- [河源市2026年事业单位（市林业局直属事业单位）公开招聘拟聘用人员公示](http://www.heyuan.gov.cn/bmjy/hysrlzyhshbzj/gggs/content/post_719269.html) — 河源市 / 事业编 / 2026-09-30
 
 ## 失败来源
 - 中央机关及其直属机构2026年度考试录用公务员专题：<urlopen error timed out>
@@ -20,7 +24,6 @@
 - 韶关市人社局事业单位人事：<urlopen error [Errno -5] No address associated with hostname>
 - 惠州市人社局通知公告：<urlopen error [Errno 104] Connection reset by peer>
 - 东莞市人社局公开招聘：<urlopen error [Errno -3] Temporary failure in name resolution>
-- 中山市人社局事业单位公开招聘：<urlopen error [Errno 101] Network is unreachable>
 - 肇庆市人社局政府信息公开平台：<urlopen error [Errno 101] Network is unreachable>
 - 潮州市人社局通知公告：<urlopen error [Errno 101] Network is unreachable>
 
