@@ -1,12 +1,13 @@
 # 广东公考事业编每日监控报告
 
-- 核验时间：2026-10-01T00:23:13+08:00（Asia/Shanghai）
-- 自动检查：成功 41，失败 11，人工入口 3
+- 核验时间：2026-10-01T13:44:41+08:00（Asia/Shanghai）
+- 自动检查：成功 42，失败 10，人工入口 3
 - A 级来源成功率：15/16
-- 本次新增：1
+- 本次新增：0
 
 ## 新发现
-- [2026年广州市黄埔区黄埔街下沙股份经济联合社公开招聘社区工作人员拟聘人员名单公示](http://www.hp.gov.cn/xwzx/tzgg/zpgg/content/post_11028476.html) — 广州市黄埔区 / 待核实 / 2026-09-30
+
+本次未发现新的候选公告链接。此结论只表示成功访问来源的页面未出现新链接；失败来源需人工补查。
 
 ## 失败来源
 - 中央机关及其直属机构2026年度考试录用公务员专题：<urlopen error timed out>
@@ -17,7 +18,6 @@
 - 韶关市人社局事业单位人事：<urlopen error [Errno -5] No address associated with hostname>
 - 惠州市人社局通知公告：<urlopen error [Errno 104] Connection reset by peer>
 - 东莞市人社局公开招聘：<urlopen error [Errno -3] Temporary failure in name resolution>
-- 中山市人社局事业单位公开招聘：<urlopen error [Errno 101] Network is unreachable>
 - 肇庆市人社局政府信息公开平台：<urlopen error [Errno 101] Network is unreachable>
 - 潮州市人社局通知公告：<urlopen error [Errno 101] Network is unreachable>
 
