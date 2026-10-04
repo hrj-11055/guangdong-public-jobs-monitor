@@ -1,8 +1,8 @@
 # 广东公考事业编每日监控报告
 
-- 核验时间：2026-10-04T13:45:21+08:00（Asia/Shanghai）
-- 自动检查：成功 42，失败 10，人工入口 3
-- A 级来源成功率：15/16
+- 核验时间：2026-10-04T23:19:31+08:00（Asia/Shanghai）
+- 自动检查：成功 36，失败 16，人工入口 3
+- A 级来源成功率：10/16
 - 本次新增：0
 
 ## 新发现
@@ -11,7 +11,13 @@
 
 ## 失败来源
 - 中央机关及其直属机构2026年度考试录用公务员专题：<urlopen error timed out>
+- 广东组织工作网通知公告：<urlopen error [Errno 111] Connection refused>
+- 广东组织工作网公务员录用：<urlopen error [Errno 111] Connection refused>
+- 广东组织工作网事业单位人事管理：<urlopen error [Errno 111] Connection refused>
+- 广东省人社厅事业单位招聘公告：<urlopen error [Errno 101] Network is unreachable>
+- 广东人事考试网：<urlopen error [Errno 101] Network is unreachable>
 - 广东人才网：<urlopen error timed out>
+- 广东省国资委：<urlopen error [Errno 101] Network is unreachable>
 - 番禺区招考信息：<urlopen error [Errno -3] Temporary failure in name resolution>
 - 深圳市人社局公职人员招考：<urlopen error [SSL: BAD_ECPOINT] bad ecpoint (_ssl.c:1010)>
 - 佛山市人社局机关事业单位招录：<urlopen error [Errno 101] Network is unreachable>
