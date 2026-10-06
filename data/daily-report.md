@@ -1,6 +1,6 @@
 # 广东公考事业编每日监控报告
 
-- 核验时间：2026-10-06T14:13:45+08:00（Asia/Shanghai）
+- 核验时间：2026-10-07T00:45:03+08:00（Asia/Shanghai）
 - 自动检查：成功 40，失败 12，人工入口 3
 - A 级来源成功率：14/16
 - 本次新增：0
@@ -11,7 +11,7 @@
 
 ## 失败来源
 - 中央机关及其直属机构2026年度考试录用公务员专题：<urlopen error timed out>
-- 中国公共招聘网事业单位公开招聘：HTTP Error 500: Internal Server Error
+- 广东省公务员考试录用管理信息系统公告：<urlopen error _ssl.c:993: The handshake operation timed out>
 - 广东人才网：<urlopen error timed out>
 - 番禺区招考信息：<urlopen error [Errno -3] Temporary failure in name resolution>
 - 深圳市人社局公职人员招考：<urlopen error [SSL: BAD_ECPOINT] bad ecpoint (_ssl.c:1010)>
