@@ -1,16 +1,17 @@
 # 广东公考事业编每日监控报告
 
-- 核验时间：2026-10-09T01:22:33+08:00（Asia/Shanghai）
-- 自动检查：成功 42，失败 10，人工入口 3
+- 核验时间：2026-10-09T14:01:56+08:00（Asia/Shanghai）
+- 自动检查：成功 43，失败 9，人工入口 3
 - A 级来源成功率：15/16
-- 本次新增：5
+- 本次新增：6
 
 ## 新发现
-- [广州市荔湾区事业单位2026年专项招聘社区党组织书记拟聘用人员公示（第一批）](http://www.lw.gov.cn/ywdt/lwzp/content/post_11032003.html) — 广州市荔湾区 / 事业编 / 2026-10-08
-- [珠吉街道综合事务中心2026年公开招聘环卫、消杀工作人员的公告](http://www.thnet.gov.cn/thdt/tzgg/rsxx/rszp/content/post_11031606.html) — 广州市天河区 / 待核实 / 2026-10-08
-- [2025年天河区卫生健康系统事业单位公开招聘专业技术人员（第一批）第八批拟聘用人员名单公示](http://www.thnet.gov.cn/thdt/tzgg/rsxx/rszp/content/post_11031287.html) — 广州市天河区 / 事业编 / 2026-10-08
-- [广州市天河区教育局直属事业单位2026年春季公开招聘在编教职员拟聘用人员公示（第四批）](http://www.thnet.gov.cn/thdt/tzgg/rsxx/rszp/content/post_11030500.html) — 广州市天河区 / 事业编 / 2026-10-08
-- [2025年广州市天河区教育系统校园招聘“优才计划”拟聘用人员公示（第四批）](http://www.thnet.gov.cn/thdt/tzgg/rsxx/rszp/content/post_11030498.html) — 广州市天河区 / 待核实 / 2026-10-08
+- [联和街道公开招聘2名政府聘员的公告](http://www.hp.gov.cn/xwzx/tzgg/zpgg/content/post_11032397.html) — 广州市黄埔区 / 待核实 / 2026-10-09
+- [中山市阜沙镇人民政府所属事业单位2026年集中公开招聘高校毕业生拟聘用人员名单公示（第二批）](http://hrss.zs.gov.cn/xxgk/rsxx/sydwgkzp/content/post_2655622.html) — 中山市 / 事业编 / 2026-10-08
+- [中山火炬高技术产业开发区管理委员会所属事业单位2025年第二期公开招聘事业单位人员拟聘用人员名单公示（第二批）](http://hrss.zs.gov.cn/xxgk/rsxx/sydwgkzp/content/post_2655631.html) — 中山市 / 事业编 / 2026-10-08
+- [中山市文化广电旅游局所属事业单位2026年公开招聘拟聘用人员名单公示（第二批）](http://hrss.zs.gov.cn/xxgk/rsxx/sydwgkzp/content/post_2655628.html) — 中山市 / 事业编 / 2026-10-08
+- [中山市东凤镇人民政府所属事业单位2026年公开招聘事业单位人员拟聘用人员名单公示](http://hrss.zs.gov.cn/xxgk/rsxx/sydwgkzp/content/post_2655641.html) — 中山市 / 事业编 / 2026-10-08
+- [中山市坦洲镇人民政府所属事业单位2026年第二期公开招聘事业单位人员拟聘用人员名单公示](http://hrss.zs.gov.cn/xxgk/rsxx/sydwgkzp/content/post_2655619.html) — 中山市 / 事业编 / 2026-10-08
 
 ## 失败来源
 - 中央机关及其直属机构2026年度考试录用公务员专题：<urlopen error timed out>
@@ -20,7 +21,6 @@
 - 韶关市人社局事业单位人事：<urlopen error [Errno -5] No address associated with hostname>
 - 惠州市人社局通知公告：<urlopen error [Errno 104] Connection reset by peer>
 - 东莞市人社局公开招聘：<urlopen error [Errno -3] Temporary failure in name resolution>
-- 中山市人社局事业单位公开招聘：<urlopen error [Errno 101] Network is unreachable>
 - 肇庆市人社局政府信息公开平台：<urlopen error [Errno 101] Network is unreachable>
 - 潮州市人社局通知公告：<urlopen error [Errno 101] Network is unreachable>
 
