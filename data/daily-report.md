@@ -1,14 +1,13 @@
 # 广东公考事业编每日监控报告
 
-- 核验时间：2026-10-10T00:58:05+08:00（Asia/Shanghai）
-- 自动检查：成功 42，失败 10，人工入口 3
+- 核验时间：2026-10-10T13:44:46+08:00（Asia/Shanghai）
+- 自动检查：成功 43，失败 9，人工入口 3
 - A 级来源成功率：15/16
-- 本次新增：3
+- 本次新增：2
 
 ## 新发现
-- [广东省2026年考试录用公务员广州市天河区职位拟录用人员公示（第五批）](http://www.thnet.gov.cn/thdt/tzgg/rsxx/rszp/content/post_11033230.html) — 广州市天河区 / 公务员 / 2026-10-09
-- [黄埔区鱼珠街道公开招聘政府聘员综合成绩公告](http://www.hp.gov.cn/xwzx/tzgg/zpgg/content/post_11033844.html) — 广州市黄埔区 / 待核实 / 2026-10-09
-- [河源市2026年事业单位（市司法局所属事业单位）公开招聘拟聘用人员公示](http://www.heyuan.gov.cn/bmjy/hysrlzyhshbzj/gggs/content/post_720001.html) — 河源市 / 事业编 / 2026-10-09
+- [中国农业科学院2026年度第三批统一公开招聘公告](https://www.mohrss.gov.cn/SYrlzyhshbzb/fwyd/SYkaoshizhaopin/zyhgjjgsydwgkzp/zpgg/202610/t20261010_589712.html) — 全国/广东 / 待核实 / 2026-10-10
+- [联和街道综合行政执法队招聘政府聘员笔试成绩及进入面试人员名单公告](http://www.hp.gov.cn/xwzx/tzgg/zpgg/content/post_11034475.html) — 广州市黄埔区 / 待核实 / 2026-10-10
 
 ## 失败来源
 - 中央机关及其直属机构2026年度考试录用公务员专题：<urlopen error timed out>
@@ -18,7 +17,6 @@
 - 韶关市人社局事业单位人事：<urlopen error [Errno -5] No address associated with hostname>
 - 惠州市人社局通知公告：<urlopen error [Errno 104] Connection reset by peer>
 - 东莞市人社局公开招聘：<urlopen error [Errno -3] Temporary failure in name resolution>
-- 中山市人社局事业单位公开招聘：<urlopen error [Errno 101] Network is unreachable>
 - 肇庆市人社局政府信息公开平台：<urlopen error [Errno 101] Network is unreachable>
 - 潮州市人社局通知公告：<urlopen error [Errno 101] Network is unreachable>
 
