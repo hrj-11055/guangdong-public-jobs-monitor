@@ -1,13 +1,17 @@
 # 广东公考事业编每日监控报告
 
-- 核验时间：2026-10-14T12:46:51+08:00（Asia/Shanghai）
+- 核验时间：2026-10-14T23:04:16+08:00（Asia/Shanghai）
 - 自动检查：成功 43，失败 9，人工入口 3
 - A 级来源成功率：15/16
-- 本次新增：2
+- 本次新增：6
 
 ## 新发现
-- [联和街道政府聘员招聘考试综合总成绩及进入体检人员名单](http://www.hp.gov.cn/xwzx/tzgg/zpgg/content/post_11044696.html) — 广州市黄埔区 / 待核实 / 2026-10-14
-- [2026年广州市南沙区人民政府南沙街道办事处公开招聘编外工作人员拟聘人员公示（第一批）](http://www.gzns.gov.cn/zwgk/zdlyxxgk/jycy/zpxx/content/post_11044757.html) — 广州市南沙区 / 编外 / 2026-10-14
+- [问答集锦01 | 中央机关及其直属机构2027年度考试录用公务员报名实名实人认证](https://mp.weixin.qq.com/s?__biz=MzI3MjA2NTE5Mg%3D%3D&mid=2652893319&idx=1&sn=45c0b5e6c50eca05334204d62b2e4d0d&chksm=f10a9a509752bbe34fc28b6cdfb2922717116673e7debc2c0387ee45881a7985e74d1d5f5d52&mpshare=1&srcid=1014RBqY4Vm80HajpKKN6X6r) — 广州市 / 公务员 / 日期待核验
+- [中央机关及其直属机构2027年度考试录用公务员报名即将开始！助您完成实名实人认证](https://mp.weixin.qq.com/s?__biz=MzI3MjA2NTE5Mg%3D%3D&mid=2652893306&idx=1&sn=80c4ffec911945774f33758a254fe9f2&chksm=f12512b4528311d761570be18d9fa4d5598e070b4d1d2b780dd4a858511e8efd51520077203e&xtra=) — 广州市 / 公务员 / 日期待核验
+- [中央机关及其直属机构2027年度考试录用公务员公告](http://bm.scs.gov.cn/pp/gkweb/core/web/ui/business/article/articledetail.html?ArticleId=8a81f6d1a129c3d401a132b7f658007d&id=0000000062b7b2b60162bccd55ec0006&eid=0000000062b7b2b60162bccdd5860007) — 广州市 / 公务员 / 日期待核验
+- [沙面街道环卫站公开招聘环卫工人的公告](http://www.lw.gov.cn/ywdt/lwzp/content/post_11046140.html) — 广州市荔湾区 / 待核实 / 2026-10-14
+- [广东省事业单位2026年集中公开招聘高校毕业生广州市增城区拟聘用人员公示（第二批）](http://www.zc.gov.cn/gk/rsgz/dwzp/content/post_11045765.html) — 广州市增城区 / 事业编 / 2026-10-14
+- [广东实验中学湛江学校2026年公开招聘（第二批）工作人员拟聘用人员（第三批）公示](https://www.zhanjiang.gov.cn/zjsfw/bmdh/rsj/zwgk/tzgg/content/post_2236389.html) — 湛江市 / 待核实 / 2026-10-14
 
 ## 失败来源
 - 中央机关及其直属机构2026年度考试录用公务员专题：HTTP Error 404: Not Found
