@@ -1,13 +1,21 @@
 # 广东公考事业编每日监控报告
 
-- 核验时间：2026-10-15T12:30:03+08:00（Asia/Shanghai）
+- 核验时间：2026-10-16T12:24:18+08:00（Asia/Shanghai）
 - 自动检查：成功 43，失败 9，人工入口 3
 - A 级来源成功率：15/16
-- 本次新增：2
+- 本次新增：10
 
 ## 新发现
-- [2026年南沙区社区专职工作人员招聘笔试成绩查询、资格复核及面试通知](http://www.gzns.gov.cn/zwgk/zdlyxxgk/jycy/zpxx/content/post_11049284.html) — 广州市南沙区 / 编外 / 2026-10-15
-- [广州市增城区人民法院2026年公开招聘政府聘员笔试有关事项公告](http://www.zc.gov.cn/gk/rsgz/dwzp/content/post_11045831.html) — 广州市增城区 / 待核实 / 2026-10-14
+- [广州市海珠区江南中街道市容环境卫生监督检查所公开招聘工作人员公告](https://www.haizhu.gov.cn/hzdt/tzgg/zpxx/content/post_11049521.html) — 广州市海珠区 / 待核实 / 2026-10-15
+- [广州市天河区员村街道综合事务中心2026年公开招聘环卫工人拟聘用人员公示](http://www.thnet.gov.cn/thdt/tzgg/rsxx/rszp/content/post_11050684.html) — 广州市天河区 / 待核实 / 2026-10-15
+- [天河区城市管理第一保洁所关于公开招聘环卫一线工作人员的公告](http://www.thnet.gov.cn/thdt/tzgg/rsxx/rszp/content/post_11050283.html) — 广州市天河区 / 待核实 / 2026-10-15
+- [广州市白云区人民政府京溪街道办事处2026年第一次公开招聘合同制聘员第二次拟补录用人员公示](https://www.by.gov.cn/zwgk/zdlyxxgkzl/jycyxxgkzl/zpxx/qnzpxx/content/post_11050520.html) — 广州市白云区 / 编外 / 2026-10-15
+- [广州市黄埔区教育局2026年春季公开招聘事业编制教师刘兆淼等6名同志拟聘公示](http://www.hp.gov.cn/xwzx/tzgg/zpgg/content/post_11052380.html) — 广州市黄埔区 / 事业编 / 2026-10-16
+- [联和街道关于综合行政执法队招聘政府聘员考试综合成绩及进入体检人员名单公告](http://www.hp.gov.cn/xwzx/tzgg/zpgg/content/post_11052014.html) — 广州市黄埔区 / 待核实 / 2026-10-16
+- [黄埔区红山街道公开招聘政府聘员综合成绩及进入体检名单公告](http://www.hp.gov.cn/xwzx/tzgg/zpgg/content/post_11050563.html) — 广州市黄埔区 / 待核实 / 2026-10-16
+- [2026年广州市增城区卫生健康局下属事业单位公开招聘工作人员拟聘用人员公示（第二批）](http://www.zc.gov.cn/gk/rsgz/dwzp/content/post_11052173.html) — 广州市增城区 / 事业编 / 2026-10-16
+- [中山职业技术学院2026年第二期公开招聘事业单位人员拟聘用人员名单公示](http://hrss.zs.gov.cn/xxgk/rsxx/sydwgkzp/content/post_2657410.html) — 中山市 / 事业编 / 2026-10-15
+- [中山职业技术学院2026年公开招聘事业单位人员拟聘用人员名单公示（第二批）](http://hrss.zs.gov.cn/xxgk/rsxx/sydwgkzp/content/post_2657412.html) — 中山市 / 事业编 / 2026-10-15
 
 ## 失败来源
 - 中央机关及其直属机构2026年度考试录用公务员专题：HTTP Error 404: Not Found
