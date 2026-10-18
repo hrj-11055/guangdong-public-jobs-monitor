@@ -1,22 +1,24 @@
 # 广东公考事业编每日监控报告
 
-- 核验时间：2026-10-17T21:41:32+08:00（Asia/Shanghai）
-- 自动检查：成功 42，失败 10，人工入口 3
+- 核验时间：2026-10-18T12:24:04+08:00（Asia/Shanghai）
+- 自动检查：成功 41，失败 11，人工入口 3
 - A 级来源成功率：14/16
-- 本次新增：1
+- 本次新增：0
 
 ## 新发现
-- [广州市天河区2026年公开招聘事业单位工作人员综合成绩发布及体检人员名单公告](http://www.thnet.gov.cn/thdt/tzgg/rsxx/rszp/content/post_11054576.html) — 广州市天河区 / 事业编 / 2026-10-17
+
+本次未发现新的候选公告链接。此结论只表示成功访问来源的页面未出现新链接；失败来源需人工补查。
 
 ## 失败来源
 - 中央机关及其直属机构2026年度考试录用公务员专题：HTTP Error 404: Not Found
+- 中国公共招聘网事业单位公开招聘：HTTP Error 500: Internal Server Error
 - 广东人才网：<urlopen error timed out>
-- 广州市事业单位招聘网上报名：HTTP Error 504: Gateway Time-out
 - 深圳市人社局公职人员招考：<urlopen error [SSL: BAD_ECPOINT] bad ecpoint (_ssl.c:1010)>
 - 佛山市人社局机关事业单位招录：<urlopen error [Errno 101] Network is unreachable>
 - 韶关市人社局事业单位人事：<urlopen error [Errno -5] No address associated with hostname>
 - 惠州市人社局通知公告：<urlopen error [Errno 104] Connection reset by peer>
 - 东莞市人社局公开招聘：<urlopen error [Errno -3] Temporary failure in name resolution>
+- 中山市人社局事业单位公开招聘：<urlopen error [Errno 101] Network is unreachable>
 - 肇庆市人社局政府信息公开平台：<urlopen error [Errno 101] Network is unreachable>
 - 潮州市人社局通知公告：<urlopen error [Errno 101] Network is unreachable>
 
