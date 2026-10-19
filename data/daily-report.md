@@ -1,13 +1,16 @@
 # 广东公考事业编每日监控报告
 
-- 核验时间：2026-10-19T12:32:41+08:00（Asia/Shanghai）
-- 自动检查：成功 43，失败 9，人工入口 3
+- 核验时间：2026-10-20T00:57:40+08:00（Asia/Shanghai）
+- 自动检查：成功 41，失败 11，人工入口 3
 - A 级来源成功率：15/16
-- 本次新增：2
+- 本次新增：5
 
 ## 新发现
-- [2026年海珠区社区专职工作人员公开招聘公告（第二批）](https://www.haizhu.gov.cn/hzdt/tzgg/zpxx/content/post_11054975.html) — 广州市海珠区 / 编外 / 2026-10-19
-- [黄埔区大沙街道公开招聘编外聘用人员笔试成绩公告](http://www.hp.gov.cn/xwzx/tzgg/zpgg/content/post_11055038.html) — 广州市黄埔区 / 编外 / 2026-10-19
+- [京溪街道市政服务所2026年公开招聘环卫工作人员拟录用人员名单公示](https://www.by.gov.cn/zwgk/zdlyxxgkzl/jycyxxgkzl/zpxx/qnzpxx/content/post_11057212.html) — 广州市白云区 / 待核实 / 2026-10-19
+- [黄埔区长洲街道公开招聘党建组织员、政府聘员公告](http://www.hp.gov.cn/xwzx/tzgg/zpgg/content/post_11057168.html) — 广州市黄埔区 / 待核实 / 2026-10-19
+- [2026年广州市南沙区人民政府南沙街道办事处公开招聘编外工作人员拟聘人员公示（第二批）](http://www.gzns.gov.cn/zwgk/zdlyxxgk/jycy/zpxx/content/post_11057872.html) — 广州市南沙区 / 编外 / 2026-10-19
+- [2026年广州市南沙区事业单位引进急需专业人才线上面试成绩公布及线下面试有关安排的通知](http://www.gzns.gov.cn/zwgk/zdlyxxgk/jycy/zpxx/content/post_11056529.html) — 广州市南沙区 / 事业编 / 2026-10-19
+- [2026年度珠海市干部队伍储备人才公开选聘拟聘用人选（第二批... 2026-10-19](https://zhrsj.zhuhai.gov.cn/zw/tzgg/gzzk/content/post_3950511.html) — 珠海市 / 待核实 / 2026-10-19
 
 ## 失败来源
 - 中央机关及其直属机构2026年度考试录用公务员专题：HTTP Error 404: Not Found
@@ -17,6 +20,8 @@
 - 韶关市人社局事业单位人事：<urlopen error [Errno -5] No address associated with hostname>
 - 惠州市人社局通知公告：<urlopen error [Errno 104] Connection reset by peer>
 - 东莞市人社局公开招聘：<urlopen error [Errno -3] Temporary failure in name resolution>
+- 中山市人社局事业单位公开招聘：<urlopen error [Errno 101] Network is unreachable>
+- 湛江市人社局通知公告：<urlopen error [Errno 104] Connection reset by peer>
 - 肇庆市人社局政府信息公开平台：<urlopen error [Errno 101] Network is unreachable>
 - 潮州市人社局通知公告：<urlopen error [Errno 101] Network is unreachable>
 
