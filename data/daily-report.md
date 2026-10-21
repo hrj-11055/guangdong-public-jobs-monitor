@@ -1,12 +1,18 @@
 # 广东公考事业编每日监控报告
 
-- 核验时间：2026-10-21T12:38:03+08:00（Asia/Shanghai）
+- 核验时间：2026-10-21T23:11:06+08:00（Asia/Shanghai）
 - 自动检查：成功 43，失败 9，人工入口 3
 - A 级来源成功率：15/16
-- 本次新增：1
+- 本次新增：7
 
 ## 新发现
-- [广州航海学院/广州交通大学（筹）2026年公开招聘高层次人才拟聘人员第三次公示](https://www.gzmtu.edu.cn/info/1019/21279.htm) — 广州市 / 待核实 / 2019-10-18
+- [梅花村街向社会公开招聘康园工疗站工作人员的公告 2026-10-21](http://www.yuexiu.gov.cn/zwgk/rsxx/gkzkzp/zpgg/content/post_11062060.html) — 广州市越秀区 / 待核实 / 2026-10-21
+- [广州市公安局海珠分局关于公开招聘36名辅警的公告](https://www.haizhu.gov.cn/hzdt/tzgg/zpxx/content/post_11061940.html) — 广州市海珠区 / 待核实 / 2026-10-21
+- [广州市荔湾区事业单位2026年专项招聘社区党组织书记拟聘用人员公示（第二批）](http://www.lw.gov.cn/ywdt/lwzp/content/post_11063071.html) — 广州市荔湾区 / 事业编 / 2026-10-21
+- [联和街道政府聘员拟聘用人员名单公示](http://www.hp.gov.cn/xwzx/tzgg/zpgg/content/post_11062914.html) — 广州市黄埔区 / 待核实 / 2026-10-21
+- [湛江幼儿师范专科学校2026年下半年公开招聘教职员公告](https://www.zhanjiang.gov.cn/zjsfw/bmdh/rsj/zwgk/tzgg/content/post_2239723.html) — 湛江市 / 待核实 / 2026-10-21
+- [2026年秋季湛江市教育局直属事业单位公开招聘工作人员公告](https://www.zhanjiang.gov.cn/zjsfw/bmdh/rsj/zwgk/tzgg/content/post_2239718.html) — 湛江市 / 事业编 / 2026-10-21
+- [湛江市人力资源和社会保障局下属事业单位2026年公开招聘拟聘用人员公示](https://www.zhanjiang.gov.cn/zjsfw/bmdh/rsj/zwgk/tzgg/content/post_2239468.html) — 湛江市 / 事业编 / 2026-10-21
 
 ## 失败来源
 - 中央机关及其直属机构2026年度考试录用公务员专题：HTTP Error 404: Not Found
