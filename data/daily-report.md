@@ -1,16 +1,12 @@
 # 广东公考事业编每日监控报告
 
-- 核验时间：2026-10-20T23:00:39+08:00（Asia/Shanghai）
+- 核验时间：2026-10-21T12:38:03+08:00（Asia/Shanghai）
 - 自动检查：成功 43，失败 9，人工入口 3
 - A 级来源成功率：15/16
-- 本次新增：5
+- 本次新增：1
 
 ## 新发现
-- [海珠区城市管理和综合执法局公开招聘雇员拟聘用人员公示](https://www.haizhu.gov.cn/hzdt/tzgg/zpxx/content/post_11060975.html) — 广州市海珠区 / 编外 / 2026-10-20
-- [广州市白云区人民政府鹤龙街道办事处2026年10月公开招聘合同制工作人员的公告](https://www.by.gov.cn/zwgk/zdlyxxgkzl/jycyxxgkzl/zpxx/qnzpxx/content/post_11060307.html) — 广州市白云区 / 编外 / 2026-10-20
-- [中山市小榄镇人民政府所属事业单位2026年公开招聘事业单位人员拟聘用人员名单公示（第二批）](http://hrss.zs.gov.cn/xxgk/rsxx/sydwgkzp/content/post_2658459.html) — 中山市 / 事业编 / 2026-10-20
-- [中山市沙溪镇人民政府所属事业单位2026年集中公开招聘高校毕业生拟聘用人员公示（第三批）](http://hrss.zs.gov.cn/xxgk/rsxx/sydwgkzp/content/post_2658461.html) — 中山市 / 事业编 / 2026-10-20
-- [湛江市技师学院公开招聘高层次人才直接业务考核公告](https://www.zhanjiang.gov.cn/zjsfw/bmdh/rsj/zwgk/tzgg/content/post_2239274.html) — 湛江市 / 待核实 / 2026-10-20
+- [广州航海学院/广州交通大学（筹）2026年公开招聘高层次人才拟聘人员第三次公示](https://www.gzmtu.edu.cn/info/1019/21279.htm) — 广州市 / 待核实 / 2019-10-18
 
 ## 失败来源
 - 中央机关及其直属机构2026年度考试录用公务员专题：HTTP Error 404: Not Found
