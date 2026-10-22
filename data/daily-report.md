@@ -1,23 +1,19 @@
 # 广东公考事业编每日监控报告
 
-- 核验时间：2026-10-21T23:11:06+08:00（Asia/Shanghai）
-- 自动检查：成功 43，失败 9，人工入口 3
+- 核验时间：2026-10-22T12:35:37+08:00（Asia/Shanghai）
+- 自动检查：成功 42，失败 10，人工入口 3
 - A 级来源成功率：15/16
-- 本次新增：7
+- 本次新增：2
 
 ## 新发现
-- [梅花村街向社会公开招聘康园工疗站工作人员的公告 2026-10-21](http://www.yuexiu.gov.cn/zwgk/rsxx/gkzkzp/zpgg/content/post_11062060.html) — 广州市越秀区 / 待核实 / 2026-10-21
-- [广州市公安局海珠分局关于公开招聘36名辅警的公告](https://www.haizhu.gov.cn/hzdt/tzgg/zpxx/content/post_11061940.html) — 广州市海珠区 / 待核实 / 2026-10-21
-- [广州市荔湾区事业单位2026年专项招聘社区党组织书记拟聘用人员公示（第二批）](http://www.lw.gov.cn/ywdt/lwzp/content/post_11063071.html) — 广州市荔湾区 / 事业编 / 2026-10-21
-- [联和街道政府聘员拟聘用人员名单公示](http://www.hp.gov.cn/xwzx/tzgg/zpgg/content/post_11062914.html) — 广州市黄埔区 / 待核实 / 2026-10-21
-- [湛江幼儿师范专科学校2026年下半年公开招聘教职员公告](https://www.zhanjiang.gov.cn/zjsfw/bmdh/rsj/zwgk/tzgg/content/post_2239723.html) — 湛江市 / 待核实 / 2026-10-21
-- [2026年秋季湛江市教育局直属事业单位公开招聘工作人员公告](https://www.zhanjiang.gov.cn/zjsfw/bmdh/rsj/zwgk/tzgg/content/post_2239718.html) — 湛江市 / 事业编 / 2026-10-21
-- [湛江市人力资源和社会保障局下属事业单位2026年公开招聘拟聘用人员公示](https://www.zhanjiang.gov.cn/zjsfw/bmdh/rsj/zwgk/tzgg/content/post_2239468.html) — 湛江市 / 事业编 / 2026-10-21
+- [鱼珠街道公开招聘政府聘员拟递补聘用人员公示](http://www.hp.gov.cn/xwzx/tzgg/zpgg/content/post_11063813.html) — 广州市黄埔区 / 待核实 / 2026-10-22
+- [黄埔区新龙镇面向社会公开招聘政府聘员公告](http://www.hp.gov.cn/xwzx/tzgg/zpgg/content/post_11063663.html) — 广州市黄埔区 / 待核实 / 2026-10-22
 
 ## 失败来源
 - 中央机关及其直属机构2026年度考试录用公务员专题：HTTP Error 404: Not Found
 - 广东人才网：<urlopen error timed out>
 - 深圳市人社局公职人员招考：<urlopen error [SSL: BAD_ECPOINT] bad ecpoint (_ssl.c:1010)>
+- 珠海市人社局公职招考：<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)>
 - 佛山市人社局机关事业单位招录：<urlopen error [Errno 101] Network is unreachable>
 - 韶关市人社局事业单位人事：<urlopen error [Errno -5] No address associated with hostname>
 - 惠州市人社局通知公告：<urlopen error [Errno 104] Connection reset by peer>
