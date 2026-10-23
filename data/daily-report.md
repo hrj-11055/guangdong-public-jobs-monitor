@@ -1,13 +1,17 @@
 # 广东公考事业编每日监控报告
 
-- 核验时间：2026-10-23T12:41:13+08:00（Asia/Shanghai）
-- 自动检查：成功 44，失败 8，人工入口 3
+- 核验时间：2026-10-23T23:00:23+08:00（Asia/Shanghai）
+- 自动检查：成功 43，失败 9，人工入口 3
 - A 级来源成功率：15/16
-- 本次新增：2
+- 本次新增：6
 
 ## 新发现
-- [广州市越秀区农林街道办事处关于公开招聘辅助人员的公告 2026-10-23](http://www.yuexiu.gov.cn/zwgk/rsxx/gkzkzp/zpgg/content/post_11065634.html) — 广州市越秀区 / 编外 / 2026-10-23
-- [广州市南沙区事业单位2026年第三批公开招聘高校毕业生公告](http://www.gzns.gov.cn/zwgk/zdlyxxgk/jycy/zpxx/content/post_11065607.html) — 广州市南沙区 / 事业编 / 2026-10-22
+- [国家林业和草原局直属单位2027年度公开招聘应届毕业生公告](https://www.mohrss.gov.cn/SYrlzyhshbzb/fwyd/SYkaoshizhaopin/zyhgjjgsydwgkzp/zpgg/202610/t20261022_595840.html) — 全国/广东 / 待核实 / 2026-10-23
+- [大连海事大学2027年度公开招聘专职指导员（辅导员）公告](https://www.mohrss.gov.cn/SYrlzyhshbzb/fwyd/SYkaoshizhaopin/zyhgjjgsydwgkzp/zpgg/202610/t20261022_595761.html) — 全国/广东 / 待核实 / 2026-10-23
+- [生态环境部所属单位2027年度第一批统一公开招聘公告](https://www.mohrss.gov.cn/SYrlzyhshbzb/fwyd/SYkaoshizhaopin/zyhgjjgsydwgkzp/zpgg/202610/t20261022_595762.html) — 全国/广东 / 待核实 / 2026-10-23
+- [2026年广州市天河区卫生健康系统事业单位公开招聘工作人员公告](http://www.thnet.gov.cn/thdt/tzgg/rsxx/rszp/content/post_11067419.html) — 广州市天河区 / 事业编 / 2026-10-23
+- [车陂街道综合事务中心2026年公开招聘一线环卫作业人员的公告](http://www.thnet.gov.cn/thdt/tzgg/rsxx/rszp/content/post_11067289.html) — 广州市天河区 / 待核实 / 2026-10-23
+- [广州市白云区人民政府京溪街道办事处2026年第二次公开招聘合同制聘员资格复审公告](https://www.by.gov.cn/zwgk/zdlyxxgkzl/jycyxxgkzl/zpxx/qnzpxx/content/post_11067206.html) — 广州市白云区 / 编外 / 2026-10-23
 
 ## 失败来源
 - 中央机关及其直属机构2026年度考试录用公务员专题：HTTP Error 404: Not Found
@@ -15,6 +19,7 @@
 - 深圳市人社局公职人员招考：<urlopen error [SSL: BAD_ECPOINT] bad ecpoint (_ssl.c:1010)>
 - 佛山市人社局机关事业单位招录：<urlopen error [Errno 101] Network is unreachable>
 - 韶关市人社局事业单位人事：<urlopen error [Errno -5] No address associated with hostname>
+- 惠州市人社局通知公告：<urlopen error [Errno 104] Connection reset by peer>
 - 东莞市人社局公开招聘：<urlopen error [Errno -3] Temporary failure in name resolution>
 - 肇庆市人社局政府信息公开平台：<urlopen error [Errno 101] Network is unreachable>
 - 潮州市人社局通知公告：<urlopen error [Errno 101] Network is unreachable>
