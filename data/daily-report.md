@@ -1,17 +1,13 @@
 # 广东公考事业编每日监控报告
 
-- 核验时间：2026-10-23T23:00:23+08:00（Asia/Shanghai）
+- 核验时间：2026-10-24T12:29:18+08:00（Asia/Shanghai）
 - 自动检查：成功 43，失败 9，人工入口 3
 - A 级来源成功率：15/16
-- 本次新增：6
+- 本次新增：0
 
 ## 新发现
-- [国家林业和草原局直属单位2027年度公开招聘应届毕业生公告](https://www.mohrss.gov.cn/SYrlzyhshbzb/fwyd/SYkaoshizhaopin/zyhgjjgsydwgkzp/zpgg/202610/t20261022_595840.html) — 全国/广东 / 待核实 / 2026-10-23
-- [大连海事大学2027年度公开招聘专职指导员（辅导员）公告](https://www.mohrss.gov.cn/SYrlzyhshbzb/fwyd/SYkaoshizhaopin/zyhgjjgsydwgkzp/zpgg/202610/t20261022_595761.html) — 全国/广东 / 待核实 / 2026-10-23
-- [生态环境部所属单位2027年度第一批统一公开招聘公告](https://www.mohrss.gov.cn/SYrlzyhshbzb/fwyd/SYkaoshizhaopin/zyhgjjgsydwgkzp/zpgg/202610/t20261022_595762.html) — 全国/广东 / 待核实 / 2026-10-23
-- [2026年广州市天河区卫生健康系统事业单位公开招聘工作人员公告](http://www.thnet.gov.cn/thdt/tzgg/rsxx/rszp/content/post_11067419.html) — 广州市天河区 / 事业编 / 2026-10-23
-- [车陂街道综合事务中心2026年公开招聘一线环卫作业人员的公告](http://www.thnet.gov.cn/thdt/tzgg/rsxx/rszp/content/post_11067289.html) — 广州市天河区 / 待核实 / 2026-10-23
-- [广州市白云区人民政府京溪街道办事处2026年第二次公开招聘合同制聘员资格复审公告](https://www.by.gov.cn/zwgk/zdlyxxgkzl/jycyxxgkzl/zpxx/qnzpxx/content/post_11067206.html) — 广州市白云区 / 编外 / 2026-10-23
+
+本次未发现新的候选公告链接。此结论只表示成功访问来源的页面未出现新链接；失败来源需人工补查。
 
 ## 失败来源
 - 中央机关及其直属机构2026年度考试录用公务员专题：HTTP Error 404: Not Found
