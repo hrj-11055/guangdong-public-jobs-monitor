@@ -1,12 +1,13 @@
 # 广东公考事业编每日监控报告
 
-- 核验时间：2026-10-24T21:59:17+08:00（Asia/Shanghai）
+- 核验时间：2026-10-25T12:33:45+08:00（Asia/Shanghai）
 - 自动检查：成功 43，失败 9，人工入口 3
 - A 级来源成功率：15/16
-- 本次新增：1
+- 本次新增：0
 
 ## 新发现
-- [茂名市2026年度高校毕业生基层公共就业创业服务岗位招募入围体检人员名单及体检相关事项公告 2026-10-24](http://mmrs.maoming.gov.cn/xwzx/tzgg/content/post_1658987.html) — 茂名市 / 待核实 / 2026-02-10
+
+本次未发现新的候选公告链接。此结论只表示成功访问来源的页面未出现新链接；失败来源需人工补查。
 
 ## 失败来源
 - 中央机关及其直属机构2026年度考试录用公务员专题：HTTP Error 404: Not Found
@@ -14,7 +15,7 @@
 - 深圳市人社局公职人员招考：<urlopen error [SSL: BAD_ECPOINT] bad ecpoint (_ssl.c:1010)>
 - 佛山市人社局机关事业单位招录：<urlopen error [Errno 101] Network is unreachable>
 - 韶关市人社局事业单位人事：<urlopen error [Errno -5] No address associated with hostname>
-- 惠州市人社局通知公告：<urlopen error [Errno 104] Connection reset by peer>
+- 惠州市人社局通知公告：<urlopen error [Errno 101] Network is unreachable>
 - 东莞市人社局公开招聘：<urlopen error [Errno -3] Temporary failure in name resolution>
 - 肇庆市人社局政府信息公开平台：<urlopen error [Errno 101] Network is unreachable>
 - 潮州市人社局通知公告：<urlopen error [Errno 101] Network is unreachable>
