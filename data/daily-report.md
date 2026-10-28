@@ -1,18 +1,12 @@
 # 广东公考事业编每日监控报告
 
-- 核验时间：2026-10-27T23:50:59+08:00（Asia/Shanghai）
+- 核验时间：2026-10-28T13:32:00+08:00（Asia/Shanghai）
 - 自动检查：成功 43，失败 9，人工入口 3
 - A 级来源成功率：15/16
-- 本次新增：7
+- 本次新增：1
 
 ## 新发现
-- [彩虹街道办事处关于2026年荔湾区社区专职工作人员公开招聘递补的公告](http://www.lw.gov.cn/ywdt/lwzp/content/post_11072521.html) — 广州市荔湾区 / 编外 / 2026-10-27
-- [广东省2026年考试录用公务员广州市天河区职位拟录用人员公示（第六批）](http://www.thnet.gov.cn/thdt/tzgg/rsxx/rszp/content/post_11072218.html) — 广州市天河区 / 公务员 / 2026-10-27
-- [广州市黄埔区应急管理局招聘专业森林消防员心理测试、体能测试和笔试结果及面试名单公告](http://www.hp.gov.cn/xwzx/tzgg/zpgg/content/post_11072366.html) — 广州市黄埔区 / 待核实 / 2026-10-27
-- [黄埔区红山街道公开招聘街道治安联防队员公告](http://www.hp.gov.cn/xwzx/tzgg/zpgg/content/post_11072163.html) — 广州市黄埔区 / 待核实 / 2026-10-27
-- [【区人社局】“百万英才汇南粤”——广州市从化区卫生健康局所属事业单位2026年第二次公开招...](http://www.conghua.gov.cn/zwfw/ztfw/hycyqsygkzp/content/post_11071789.html) — 广州市从化区 / 事业编 / 2026-10-27
-- [汕头市卫生健康局属下汕头市中心医院2026年上半年公开招聘工作人员拟聘用人员公示](https://www.shantou.gov.cn/stsrlzyhshbzj/ztzl/sydwrsgl/zpxx/content/post_2580503.html) — 汕头市 / 待核实 / 2026-10-27
-- [中山职业技术学院2024年第三期公开招聘事业单位人员拟聘用人员名单公示（第四批）](http://hrss.zs.gov.cn/xxgk/rsxx/sydwgkzp/content/post_2659876.html) — 中山市 / 事业编 / 2026-10-27
+- [广州市白云区人民政府京溪街道办事处2026年第二次公开招聘合同制聘员面试公告](https://www.by.gov.cn/zwgk/zdlyxxgkzl/jycyxxgkzl/zpxx/qnzpxx/content/post_11073338.html) — 广州市白云区 / 编外 / 2026-10-28
 
 ## 失败来源
 - 中央机关及其直属机构2026年度考试录用公务员专题：HTTP Error 404: Not Found
