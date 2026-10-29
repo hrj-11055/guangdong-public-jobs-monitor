@@ -1,13 +1,14 @@
 # 广东公考事业编每日监控报告
 
-- 核验时间：2026-10-29T00:35:09+08:00（Asia/Shanghai）
-- 自动检查：成功 42，失败 10，人工入口 3
+- 核验时间：2026-10-29T13:40:04+08:00（Asia/Shanghai）
+- 自动检查：成功 43，失败 9，人工入口 3
 - A 级来源成功率：15/16
-- 本次新增：2
+- 本次新增：3
 
 ## 新发现
-- [公益性岗位拟聘用人员公示](https://www.haizhu.gov.cn/hzdt/tzgg/zpxx/content/post_11073062.html) — 广州市海珠区 / 待核实 / 2026-10-28
-- [广州市白云区2026年社区专职工作人员公开招聘公告](https://www.by.gov.cn/zwgk/zdlyxxgkzl/jycyxxgkzl/zpxx/qnzpxx/content/post_11074534.html) — 广州市白云区 / 编外 / 2026-10-28
+- [广州市白云区人民政府石门街道办事处2026年公开招聘基层公共就业创业服务岗位人员公告](https://www.by.gov.cn/zwgk/zdlyxxgkzl/jycyxxgkzl/zpxx/qnzpxx/content/post_11075391.html) — 广州市白云区 / 待核实 / 2026-10-29
+- [广州市黄埔区卫生健康系统2026年事业单位公开招聘公告](http://www.hp.gov.cn/xwzx/tzgg/zpgg/content/post_11075531.html) — 广州市黄埔区 / 事业编 / 2026-10-29
+- [广州市公安局南沙分局2026年度公开招聘警务辅助人员拟补录人员公示](http://www.gzns.gov.cn/zwgk/zdlyxxgk/jycy/zpxx/content/post_11075812.html) — 广州市南沙区 / 编外 / 2026-10-29
 
 ## 失败来源
 - 中央机关及其直属机构2026年度考试录用公务员专题：HTTP Error 404: Not Found
@@ -17,7 +18,6 @@
 - 韶关市人社局事业单位人事：<urlopen error [Errno -5] No address associated with hostname>
 - 惠州市人社局通知公告：<urlopen error [Errno 104] Connection reset by peer>
 - 东莞市人社局公开招聘：<urlopen error [Errno -3] Temporary failure in name resolution>
-- 中山市人社局事业单位公开招聘：<urlopen error [Errno 101] Network is unreachable>
 - 肇庆市人社局政府信息公开平台：<urlopen error [Errno 101] Network is unreachable>
 - 潮州市人社局通知公告：<urlopen error [Errno 101] Network is unreachable>
 
