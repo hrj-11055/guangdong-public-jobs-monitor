@@ -1,26 +1,23 @@
 # 广东公考事业编每日监控报告
 
-- 核验时间：2026-10-30T00:53:24+08:00（Asia/Shanghai）
-- 自动检查：成功 41，失败 11，人工入口 3
+- 核验时间：2026-10-30T13:39:24+08:00（Asia/Shanghai）
+- 自动检查：成功 43，失败 9，人工入口 3
 - A 级来源成功率：15/16
-- 本次新增：4
+- 本次新增：3
 
 ## 新发现
-- [联和街道关于政府聘员招聘考试综合成绩及进入体检人员名单的公告](http://www.hp.gov.cn/xwzx/tzgg/zpgg/content/post_11076587.html) — 广州市黄埔区 / 待核实 / 2026-10-29
-- [广州市黄埔区司法局公开招聘政府雇员笔试成绩、资格复审及面试的公告](http://www.hp.gov.cn/xwzx/tzgg/zpgg/content/post_11075972.html) — 广州市黄埔区 / 编外 / 2026-10-29
-- [广州市增城区人民法院2026年公开招聘政府聘员笔试成绩公布及面试安排的公告](http://www.zc.gov.cn/gk/rsgz/dwzp/content/post_11076963.html) — 广州市增城区 / 待核实 / 2026-10-29
-- [湛江市技师学院公开招聘高层次人才直接业务考核成绩及入围体检人员名单公告](https://www.zhanjiang.gov.cn/zjsfw/bmdh/rsj/zwgk/tzgg/content/post_2242336.html) — 湛江市 / 待核实 / 2026-10-29
+- [水利部有关直属单位公开招聘2027年高校应届毕业生公告](https://www.mohrss.gov.cn/SYrlzyhshbzb/fwyd/SYkaoshizhaopin/zyhgjjgsydwgkzp/zpgg/202610/t20261029_596851.html) — 全国/广东 / 待核实 / 2026-10-30
+- [广州开发区营商环境改革局拟聘人员公示](http://www.hp.gov.cn/xwzx/tzgg/zpgg/content/post_11077431.html) — 广州市黄埔区 / 待核实 / 2026-10-30
+- [汕头市卫生健康局属下汕头市人民医院2025年下半年公开招聘工作人员拟聘用人员（第三批）公示](https://www.shantou.gov.cn/stsrlzyhshbzj/ztzl/sydwrsgl/zpxx/content/post_2581053.html) — 汕头市 / 待核实 / 2026-10-29
 
 ## 失败来源
 - 中央机关及其直属机构2026年度考试录用公务员专题：HTTP Error 404: Not Found
 - 广东人才网：<urlopen error timed out>
 - 深圳市人社局公职人员招考：<urlopen error [SSL: BAD_ECPOINT] bad ecpoint (_ssl.c:1010)>
-- 汕头市人社局事业单位招聘信息：<urlopen error [Errno 101] Network is unreachable>
 - 佛山市人社局机关事业单位招录：<urlopen error [Errno 101] Network is unreachable>
 - 韶关市人社局事业单位人事：<urlopen error [Errno -5] No address associated with hostname>
-- 惠州市人社局通知公告：<urlopen error _ssl.c:993: The handshake operation timed out>
+- 惠州市人社局通知公告：<urlopen error [Errno 101] Network is unreachable>
 - 东莞市人社局公开招聘：<urlopen error [Errno -3] Temporary failure in name resolution>
-- 中山市人社局事业单位公开招聘：<urlopen error [Errno 101] Network is unreachable>
 - 肇庆市人社局政府信息公开平台：<urlopen error [Errno 101] Network is unreachable>
 - 潮州市人社局通知公告：<urlopen error [Errno 101] Network is unreachable>
 
