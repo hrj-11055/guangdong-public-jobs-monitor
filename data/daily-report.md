@@ -1,7 +1,7 @@
 # 广东公考事业编每日监控报告
 
-- 核验时间：2026-10-31T13:29:58+08:00（Asia/Shanghai）
-- 自动检查：成功 43，失败 9，人工入口 3
+- 核验时间：2026-11-01T13:55:31+08:00（Asia/Shanghai）
+- 自动检查：成功 42，失败 10，人工入口 3
 - A 级来源成功率：15/16
 - 本次新增：0
 
@@ -12,6 +12,7 @@
 ## 失败来源
 - 中央机关及其直属机构2026年度考试录用公务员专题：HTTP Error 404: Not Found
 - 广东人才网：<urlopen error timed out>
+- 天河区人事招聘：<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1010)>
 - 深圳市人社局公职人员招考：<urlopen error [SSL: BAD_ECPOINT] bad ecpoint (_ssl.c:1010)>
 - 佛山市人社局机关事业单位招录：<urlopen error [Errno 101] Network is unreachable>
 - 韶关市人社局事业单位人事：<urlopen error [Errno -5] No address associated with hostname>
