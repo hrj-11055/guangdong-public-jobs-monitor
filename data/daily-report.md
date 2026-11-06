@@ -1,23 +1,26 @@
 # 广东公考事业编每日监控报告
 
-- 核验时间：2026-11-06T01:58:17+08:00（Asia/Shanghai）
-- 自动检查：成功 42，失败 10，人工入口 3
-- A 级来源成功率：15/16
-- 本次新增：2
+- 核验时间：2026-11-06T14:32:01+08:00（Asia/Shanghai）
+- 自动检查：成功 41，失败 11，人工入口 3
+- A 级来源成功率：14/16
+- 本次新增：4
 
 ## 新发现
-- [黄埔区龙湖街道公开招聘治安联防队员的公告](http://www.hp.gov.cn/xwzx/tzgg/zpgg/content/post_11088850.html) — 广州市黄埔区 / 待核实 / 2026-11-05
-- [关于南沙区2026年度基层公共就业创业服务岗位吸纳高校毕业生公开招聘的补充公告](http://www.gzns.gov.cn/zwgk/zdlyxxgk/jycy/zpxx/content/post_11089354.html) — 广州市南沙区 / 待核实 / 2026-11-05
+- [彩虹街道办事处关于2026年荔湾区社区专职工作人员公开招聘拟补录人员的公示](http://www.lw.gov.cn/ywdt/lwzp/content/post_11089830.html) — 广州市荔湾区 / 编外 / 2026-11-06
+- [关于站前街道拟聘任行政执法社会监督员的公示](http://www.lw.gov.cn/ywdt/lwzp/content/post_11089495.html) — 广州市荔湾区 / 待核实 / 2026-11-06
+- [文冲街道公开招聘1名治安联防队员笔试成绩公告](http://www.hp.gov.cn/xwzx/tzgg/zpgg/content/post_11090263.html) — 广州市黄埔区 / 待核实 / 2026-11-06
+- [红山街道公开招聘街道治安联防队员笔试成绩及进入面试名单的公告](http://www.hp.gov.cn/xwzx/tzgg/zpgg/content/post_11089972.html) — 广州市黄埔区 / 待核实 / 2026-11-06
 
 ## 失败来源
 - 中央机关及其直属机构2026年度考试录用公务员专题：HTTP Error 404: Not Found
+- 广东公共求职招聘服务平台：<urlopen error [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1011)>
 - 广东人才网：<urlopen error timed out>
+- 广东省事业单位公开招聘信息管理系统（公告发布）：<urlopen error [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1011)>
 - 深圳市人社局公职人员招考：<urlopen error [Errno 104] Connection reset by peer>
 - 佛山市人社局机关事业单位招录：<urlopen error [Errno 101] Network is unreachable>
 - 韶关市人社局事业单位人事：<urlopen error [Errno -5] No address associated with hostname>
 - 惠州市人社局通知公告：<urlopen error [Errno 104] Connection reset by peer>
 - 东莞市人社局公开招聘：<urlopen error [Errno -3] Temporary failure in name resolution>
-- 中山市人社局事业单位公开招聘：<urlopen error [Errno 101] Network is unreachable>
 - 肇庆市人社局政府信息公开平台：<urlopen error [Errno 101] Network is unreachable>
 - 潮州市人社局通知公告：<urlopen error [Errno 101] Network is unreachable>
 
