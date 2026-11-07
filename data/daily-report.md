@@ -1,13 +1,13 @@
 # 广东公考事业编每日监控报告
 
-- 核验时间：2026-11-07T01:26:49+08:00（Asia/Shanghai）
-- 自动检查：成功 42，失败 10，人工入口 3
+- 核验时间：2026-11-07T13:51:30+08:00（Asia/Shanghai）
+- 自动检查：成功 43，失败 9，人工入口 3
 - A 级来源成功率：15/16
-- 本次新增：2
+- 本次新增：0
 
 ## 新发现
-- [广州市天河区沙东街道综合事务中心2026年公开招聘环卫工人拟聘用人员公示](http://www.thnet.gov.cn/thdt/tzgg/rsxx/rszp/content/post_11091587.html) — 广州市天河区 / 待核实 / 2026-11-06
-- [关于黄埔区联和街公开招聘治安联防队员的公告](http://www.hp.gov.cn/xwzx/tzgg/zpgg/content/post_11091338.html) — 广州市黄埔区 / 待核实 / 2026-11-06
+
+本次未发现新的候选公告链接。此结论只表示成功访问来源的页面未出现新链接；失败来源需人工补查。
 
 ## 失败来源
 - 中央机关及其直属机构2026年度考试录用公务员专题：HTTP Error 404: Not Found
@@ -15,9 +15,8 @@
 - 深圳市人社局公职人员招考：<urlopen error [Errno 104] Connection reset by peer>
 - 佛山市人社局机关事业单位招录：<urlopen error [Errno 101] Network is unreachable>
 - 韶关市人社局事业单位人事：<urlopen error [Errno -5] No address associated with hostname>
-- 惠州市人社局通知公告：<urlopen error [Errno 101] Network is unreachable>
+- 惠州市人社局通知公告：<urlopen error [Errno 104] Connection reset by peer>
 - 东莞市人社局公开招聘：<urlopen error [Errno -3] Temporary failure in name resolution>
-- 中山市人社局事业单位公开招聘：<urlopen error [Errno 101] Network is unreachable>
 - 肇庆市人社局政府信息公开平台：<urlopen error [Errno 101] Network is unreachable>
 - 潮州市人社局通知公告：<urlopen error [Errno 101] Network is unreachable>
 
