@@ -1,20 +1,23 @@
 # 广东公考事业编每日监控报告
 
-- 核验时间：2026-11-17T04:22:56+08:00（Asia/Shanghai）
-- 自动检查：成功 41，失败 11，人工入口 3
+- 核验时间：2026-11-17T15:48:00+08:00（Asia/Shanghai）
+- 自动检查：成功 40，失败 12，人工入口 3
 - A 级来源成功率：15/16
-- 本次新增：9
+- 本次新增：12
 
 ## 新发现
-- [广州市卫生健康委员会直属事业单位2026年第一次引进急需专业人才广州市第十二人民医院拟聘用人员公示](http://wjw.gz.gov.cn/xxgk/rsxx/content/post_11103076.html) — 广州市 / 事业编 / 2019-10-18
-- [广州市公安局海珠分局公开招聘36名辅警进入体检环节名单的公告](https://www.haizhu.gov.cn/hzdt/tzgg/zpxx/content/post_11104352.html) — 广州市海珠区 / 待核实 / 2026-11-16
-- [2026年度茶滘街道公开招聘高校毕业生基层公共就业创业服务岗位拟录用公示](http://www.lw.gov.cn/ywdt/lwzp/content/post_11104655.html) — 广州市荔湾区 / 待核实 / 2026-11-16
-- [荔湾区中南街道2026年度公开招聘高校毕业生基层公共就业创业服务岗位拟聘用公示](http://www.lw.gov.cn/ywdt/lwzp/content/post_11104409.html) — 广州市荔湾区 / 待核实 / 2026-11-16
-- [广州市公安局荔湾分局公开招聘30名辅警进入体检环节人员名单及有关事项公告](http://www.lw.gov.cn/ywdt/lwzp/content/post_11104157.html) — 广州市荔湾区 / 待核实 / 2026-11-16
-- [广州市天河区2026年公开招聘事业单位工作人员拟聘用人员名单公示（第一批）](http://www.thnet.gov.cn/thdt/tzgg/rsxx/rszp/content/post_11103070.html) — 广州市天河区 / 事业编 / 2026-11-16
-- [红山街道招聘街道治安联防队员总成绩及进入体检政审人员名单公告](http://www.hp.gov.cn/xwzx/tzgg/zpgg/content/post_11104689.html) — 广州市黄埔区 / 待核实 / 2026-11-16
-- [关于2026年广州市南沙区卫生健康局高校专项招聘下属事业单位工作人员笔试成绩查询及资格复审安排的通知](http://www.gzns.gov.cn/zwgk/zdlyxxgk/jycy/zpxx/content/post_11104498.html) — 广州市南沙区 / 事业编 / 2026-11-16
-- [汕头市文化广电旅游体育局下属汕头市体育运动学校2026年公开招聘工作人员拟聘用人员公示](https://www.shantou.gov.cn/stsrlzyhshbzj/ztzl/sydwrsgl/zpxx/content/post_2585328.html) — 汕头市 / 待核实 / 2026-11-16
+- [2025年下半年广州市教育系统校园招聘“优才计划”第六批拟聘用人员公示](https://jyj.gz.gov.cn/yw/wsgs/content/post_11101085.html) — 广州市 / 待核实 / 2019-10-18
+- [广州市荔湾区龙津街道2026年度高校毕业生基层公共就业创业服务岗位公开招聘拟聘用人员公示](http://www.lw.gov.cn/ywdt/lwzp/content/post_11106239.html) — 广州市荔湾区 / 待核实 / 2026-11-17
+- [荔湾区2026年社区专职工作人员公开招聘站前街道递补聘用人员公示](http://www.lw.gov.cn/ywdt/lwzp/content/post_11105857.html) — 广州市荔湾区 / 编外 / 2026-11-17
+- [天河区卫生健康系统事业单位2025年集中公开招聘高层次和急需紧缺人才第二轮滚动招聘第二批拟聘用人员名单公示](http://www.thnet.gov.cn/thdt/tzgg/rsxx/rszp/content/post_11106470.html) — 广州市天河区 / 事业编 / 2026-11-17
+- [“百万英才汇南粤”广州市天河区2025年事业单位公开招聘博士第二批拟聘用人员名单公示](http://www.thnet.gov.cn/thdt/tzgg/rsxx/rszp/content/post_11106454.html) — 广州市天河区 / 事业编 / 2026-11-17
+- [广州市天河区教育局直属事业单位2026年春季公开招聘在编教职员拟聘用人员公示（第五批）](http://www.thnet.gov.cn/thdt/tzgg/rsxx/rszp/content/post_11105123.html) — 广州市天河区 / 事业编 / 2026-11-17
+- [2025年广州市天河区教育系统校园招聘“优才计划”拟聘用人员公示（第五批）](http://www.thnet.gov.cn/thdt/tzgg/rsxx/rszp/content/post_11105122.html) — 广州市天河区 / 待核实 / 2026-11-17
+- [广州市白云区人民政府大源街道办事处2026年基层公共就业创业服务岗位招聘笔试成绩及面试名单公告](https://www.by.gov.cn/zwgk/zdlyxxgkzl/jycyxxgkzl/zpxx/qnzpxx/content/post_11106509.html) — 广州市白云区 / 待核实 / 2026-11-17
+- [广州市黄埔区人民政府永和街道办事处公开招聘政府聘员公告](http://www.hp.gov.cn/xwzx/tzgg/zpgg/content/post_11106412.html) — 广州市黄埔区 / 待核实 / 2026-11-17
+- [广州开发区财政局 广州市黄埔区财政局2026年公开招聘政府初级雇员公告](http://www.hp.gov.cn/xwzx/tzgg/zpgg/content/post_11106126.html) — 广州市黄埔区 / 编外 / 2026-11-17
+- [黄埔区永和街道公开招聘治安联防队员的公告](http://www.hp.gov.cn/xwzx/tzgg/zpgg/content/post_11105842.html) — 广州市黄埔区 / 待核实 / 2026-11-17
+- [2026年广州市南沙区卫生健康局公开招聘下属事业单位工作人员拟聘人员公示（第二批）](http://www.gzns.gov.cn/zwgk/zdlyxxgk/jycy/zpxx/content/post_11105943.html) — 广州市南沙区 / 事业编 / 2026-11-17
 
 ## 失败来源
 - 中央机关及其直属机构2026年度考试录用公务员专题：HTTP Error 404: Not Found
@@ -28,6 +31,7 @@
 - 阳江市人社局政府信息公开平台：<urlopen error [Errno 101] Network is unreachable>
 - 肇庆市人社局政府信息公开平台：<urlopen error [Errno 101] Network is unreachable>
 - 潮州市人社局通知公告：<urlopen error [Errno 101] Network is unreachable>
+- 揭阳市人社局通知公告：<urlopen error [Errno 101] Network is unreachable>
 
 ## 人工补查入口
 - [广东省事业单位公开招聘信息管理系统](https://ggfw.hrss.gd.gov.cn/sydwbk/index.do)：登录型系统；保留为操作入口，不自动抓取
