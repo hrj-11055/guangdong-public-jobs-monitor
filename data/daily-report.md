@@ -1,23 +1,23 @@
 # 广东公考事业编每日监控报告
 
-- 核验时间：2026-11-21T02:34:08+08:00（Asia/Shanghai）
-- 自动检查：成功 40，失败 12，人工入口 3
+- 核验时间：2026-11-21T14:57:52+08:00（Asia/Shanghai）
+- 自动检查：成功 41，失败 11，人工入口 3
 - A 级来源成功率：15/16
-- 本次新增：2
+- 本次新增：3
 
 ## 新发现
-- [白鹤洞街道公开招聘高校毕业生基层公共就业创业服务岗人员拟录用公示](http://www.lw.gov.cn/ywdt/lwzp/content/post_11113856.html) — 广州市荔湾区 / 待核实 / 2026-11-20
-- [汕头市教育局直属汕头市金山中学2025年公开招聘教师（第三批）拟聘用人员公示](https://www.shantou.gov.cn/stsrlzyhshbzj/ztzl/sydwrsgl/zpxx/content/post_2586501.html) — 汕头市 / 待核实 / 2026-11-20
+- [中山市卫生健康局所属事业单位2026年公开招聘事业单位人员拟聘用人员名单公示（第一批）](http://hrss.zs.gov.cn/xxgk/rsxx/sydwgkzp/content/post_2664790.html) — 中山市 / 事业编 / 2026-11-18
+- [中山市卫生健康局所属事业单位2025年公开招聘事业单位人员拟聘用人员名单公示（第五批）](http://hrss.zs.gov.cn/xxgk/rsxx/sydwgkzp/content/post_2664792.html) — 中山市 / 事业编 / 2026-11-18
+- [中山火炬职业技术学院2026年公开招聘事业单位人员拟聘用人员名单公示（第一批）](http://hrss.zs.gov.cn/xxgk/rsxx/sydwgkzp/content/post_2664794.html) — 中山市 / 事业编 / 2026-11-18
 
 ## 失败来源
 - 中央机关及其直属机构2026年度考试录用公务员专题：HTTP Error 404: Not Found
 - 广东人才网：<urlopen error timed out>
 - 深圳市人社局公职人员招考：<urlopen error [Errno 104] Connection reset by peer>
 - 佛山市人社局机关事业单位招录：<urlopen error [Errno 101] Network is unreachable>
-- 韶关市人社局事业单位人事：<urlopen error [Errno -2] Name or service not known>
+- 韶关市人社局事业单位人事：<urlopen error [Errno -5] No address associated with hostname>
 - 惠州市人社局通知公告：<urlopen error [Errno 104] Connection reset by peer>
 - 东莞市人社局公开招聘：<urlopen error [Errno -3] Temporary failure in name resolution>
-- 中山市人社局事业单位公开招聘：<urlopen error [Errno 101] Network is unreachable>
 - 阳江市人社局政府信息公开平台：<urlopen error [Errno 101] Network is unreachable>
 - 肇庆市人社局政府信息公开平台：<urlopen error [Errno 101] Network is unreachable>
 - 潮州市人社局通知公告：<urlopen error [Errno 101] Network is unreachable>
