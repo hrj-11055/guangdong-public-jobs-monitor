@@ -1,24 +1,24 @@
 # 广东公考事业编每日监控报告
 
-- 核验时间：2026-11-25T16:21:49+08:00（Asia/Shanghai）
-- 自动检查：成功 42，失败 10，人工入口 3
+- 核验时间：2026-11-26T03:53:29+08:00（Asia/Shanghai）
+- 自动检查：成功 40，失败 12，人工入口 3
 - A 级来源成功率：15/16
-- 本次新增：5
+- 本次新增：3
 
 ## 新发现
-- [广州市海珠区沙园街街道市容环境卫生监督检查所关于公开招聘环卫工人的公告](https://www.haizhu.gov.cn/hzdt/tzgg/zpxx/content/post_11121128.html) — 广州市海珠区 / 待核实 / 2026-11-25
-- [黄埔区龙湖街道公开招聘治安联防队员体能测试事宜的公告](http://www.hp.gov.cn/xwzx/tzgg/zpgg/content/post_11120541.html) — 广州市黄埔区 / 待核实 / 2026-11-25
-- [广州市黄埔区水务设施管理所拟聘人员公示](http://www.hp.gov.cn/xwzx/tzgg/zpgg/content/post_11119949.html) — 广州市黄埔区 / 待核实 / 2026-11-25
-- [2026年广州市南沙区事业单位引进急需专业人才拟聘人员公示（第一批）](http://www.gzns.gov.cn/zwgk/zdlyxxgk/jycy/zpxx/content/post_11119994.html) — 广州市南沙区 / 事业编 / 2026-11-25
-- [广州市增城区2026年度高校毕业生基层公共就业创业服务岗位公开招募综合成绩及体检安排的公告](http://www.zc.gov.cn/gk/rsgz/dwzp/content/post_11120909.html) — 广州市增城区 / 待核实 / 2026-11-25
+- [彩虹街道公开招聘2026年度高校毕业生基层公共就业创业服务岗位拟录用公示](https://www.lw.gov.cn/ywdt/lwzp/content/post_11122036.html) — 广州市荔湾区 / 待核实 / 2026-11-25
+- [广州市天河区员村街道综合事务中心公开招聘环卫工人的公告](http://www.thnet.gov.cn/thdt/tzgg/rsxx/rszp/content/post_11121554.html) — 广州市天河区 / 待核实 / 2026-11-25
+- [黄埔区云埔街道办事处面向社会公开招聘政府聘员笔试安排及补充公告](http://www.hp.gov.cn/xwzx/tzgg/zpgg/content/post_11121769.html) — 广州市黄埔区 / 待核实 / 2026-11-25
 
 ## 失败来源
 - 中央机关及其直属机构2026年度考试录用公务员专题：HTTP Error 404: Not Found
 - 广东人才网：<urlopen error timed out>
-- 深圳市人社局公职人员招考：<urlopen error [Errno 104] Connection reset by peer>
+- 深圳市人社局公职人员招考：<urlopen error [SSL: BAD_ECPOINT] bad ecpoint (_ssl.c:1011)>
 - 佛山市人社局机关事业单位招录：<urlopen error [Errno 101] Network is unreachable>
 - 韶关市人社局事业单位人事：<urlopen error [Errno -5] No address associated with hostname>
+- 惠州市人社局通知公告：<urlopen error [Errno 104] Connection reset by peer>
 - 东莞市人社局公开招聘：<urlopen error [Errno -3] Temporary failure in name resolution>
+- 中山市人社局事业单位公开招聘：<urlopen error [Errno 101] Network is unreachable>
 - 阳江市人社局政府信息公开平台：<urlopen error [Errno 101] Network is unreachable>
 - 肇庆市人社局政府信息公开平台：<urlopen error [Errno 101] Network is unreachable>
 - 潮州市人社局通知公告：<urlopen error [Errno 101] Network is unreachable>
