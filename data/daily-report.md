@@ -1,21 +1,18 @@
 # 广东公考事业编每日监控报告
 
-- 核验时间：2026-11-27T16:16:19+08:00（Asia/Shanghai）
-- 自动检查：成功 42，失败 10，人工入口 3
+- 核验时间：2026-11-28T03:26:27+08:00（Asia/Shanghai）
+- 自动检查：成功 40，失败 12，人工入口 3
 - A 级来源成功率：15/16
-- 本次新增：10
+- 本次新增：7
 
 ## 新发现
-- [中央办公厅所属事业单位2027年度公开招聘工作人员公告](https://www.mohrss.gov.cn/SYrlzyhshbzb/fwyd/SYkaoshizhaopin/zyhgjjgsydwgkzp/zpgg/202611/t20261126_601218.html) — 全国/广东 / 事业编 / 2026-11-27
-- [公益性岗位拟聘用人员公示](https://www.haizhu.gov.cn/hzdt/tzgg/zpxx/content/post_11125205.html) — 广州市海珠区 / 待核实 / 2026-11-27
-- [关于2026年广州市海珠区教育系统高校毕业生招聘资格复审工作安排的通知](https://www.haizhu.gov.cn/hzdt/tzgg/zpxx/content/post_11124465.html) — 广州市海珠区 / 待核实 / 2026-11-27
-- [天河区前进街道综合事务中心公开招聘环卫一线工作人员的公告](http://www.thnet.gov.cn/thdt/tzgg/rsxx/rszp/content/post_11124280.html) — 广州市天河区 / 待核实 / 2026-11-27
-- [长洲街道公开招聘党建组织员、政府聘员总成绩及进入体检人员名单公告](http://www.hp.gov.cn/xwzx/tzgg/zpgg/content/post_11125299.html) — 广州市黄埔区 / 待核实 / 2026-11-27
-- [黄埔区龙湖街道公开招聘治安联防队员体能测试成绩及笔试的公告](http://www.hp.gov.cn/xwzx/tzgg/zpgg/content/post_11124984.html) — 广州市黄埔区 / 待核实 / 2026-11-27
-- [黄埔区大沙街道公开招聘编外聘用人员拟聘用名单公示](http://www.hp.gov.cn/xwzx/tzgg/zpgg/content/post_11124929.html) — 广州市黄埔区 / 编外 / 2026-11-27
-- [联和街关于治安联防队员招聘考试综合成绩及进入体检人员名单的公告](http://www.hp.gov.cn/xwzx/tzgg/zpgg/content/post_11124724.html) — 广州市黄埔区 / 待核实 / 2026-11-27
-- [中共广州市黄埔区委办公室拟聘人员公示](http://www.hp.gov.cn/xwzx/tzgg/zpgg/content/post_11124403.html) — 广州市黄埔区 / 待核实 / 2026-11-27
-- [2026年广州市增城区卫生健康局下属事业单位公开招聘工作人员拟聘用人员公示（第三批）](http://www.zc.gov.cn/gk/rsgz/dwzp/content/post_11123310.html) — 广州市增城区 / 事业编 / 2026-11-26
+- [广东省2027年度选调优秀大学毕业生公告](https://www.gdzz.gov.cn/tzgg/content/post_26526.html) — 广东省 / 选调生 / 2026-11-27
+- [广东省2027年度选调优秀大学毕业生公告](https://www.gdzz.gov.cn/gwygz/lypytzgg/content/post_26527.html) — 广东省 / 选调生 / 2026-11-27
+- [广州市科学技术局直属事业单位2026年引进急需人才拟聘用人员公示](http://kjj.gz.gov.cn/xxgk/zwdt/tztg/wjgg/content/post_11120886.html ) — 广州市 / 事业编 / 2019-10-18
+- [广州市公安局荔湾分局公开招聘30名辅警拟聘用人员公示](https://www.lw.gov.cn/ywdt/lwzp/content/post_11126438.html) — 广州市荔湾区 / 待核实 / 2026-11-27
+- [元岗街道综合事务中心关于公开招聘环卫一线工作人员的公告](http://www.thnet.gov.cn/thdt/tzgg/rsxx/rszp/content/post_11126277.html) — 广州市天河区 / 待核实 / 2026-11-27
+- [黄埔区红山街道公开招聘政府聘员公告](http://www.hp.gov.cn/xwzx/tzgg/zpgg/content/post_11126242.html) — 广州市黄埔区 / 待核实 / 2026-11-27
+- [广州市黄埔区鱼珠街道公开招聘治安联防队员公告](http://www.hp.gov.cn/xwzx/tzgg/zpgg/content/post_11126031.html) — 广州市黄埔区 / 待核实 / 2026-11-27
 
 ## 失败来源
 - 中央机关及其直属机构2026年度考试录用公务员专题：HTTP Error 404: Not Found
@@ -23,7 +20,9 @@
 - 深圳市人社局公职人员招考：<urlopen error [SSL: BAD_ECPOINT] bad ecpoint (_ssl.c:1011)>
 - 佛山市人社局机关事业单位招录：<urlopen error [Errno 101] Network is unreachable>
 - 韶关市人社局事业单位人事：<urlopen error [Errno -5] No address associated with hostname>
+- 惠州市人社局通知公告：<urlopen error [Errno 104] Connection reset by peer>
 - 东莞市人社局公开招聘：<urlopen error [Errno -3] Temporary failure in name resolution>
+- 中山市人社局事业单位公开招聘：<urlopen error [Errno 101] Network is unreachable>
 - 阳江市人社局政府信息公开平台：<urlopen error [Errno 101] Network is unreachable>
 - 肇庆市人社局政府信息公开平台：<urlopen error [Errno 101] Network is unreachable>
 - 潮州市人社局通知公告：<urlopen error [Errno 101] Network is unreachable>
